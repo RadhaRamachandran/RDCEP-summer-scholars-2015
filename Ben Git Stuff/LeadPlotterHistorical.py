@@ -12,7 +12,7 @@ matplotlib.style.use('ggplot')
 
 import glob
 
-path =r'C:\Users\Benhg\Desktop\DataFiles'
+path =r'C:\Users\Ben\Desktop\DataFilesLead'
 allFiles = glob.glob(path + "/*.csv")
 frame = pd.DataFrame()
 list_ = []
@@ -24,7 +24,7 @@ frame = pd.concat(list_)
 
 
 df3=frame['Daily Mean Pb Concentration']
-df3=df3.sort_index(by=['Date'], ascending=[True])
+#df3=df3.sort_index(by=['Date'], ascending=[True])
 df3.plot(label="Measured Lead Level")
 plt.title('Daily Lead Levels for 1980-2015 in Cook County, IL')
 plt.xlabel('Date')

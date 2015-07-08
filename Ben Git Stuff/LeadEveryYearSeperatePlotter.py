@@ -11,13 +11,14 @@ matplotlib.style.use('ggplot')
 
 import glob
 
-path =r'C:\Users\Ben\Desktop\DataFiles'
+path =r'C:\Users\Ben\Desktop\DataFilesLead'
 allFiles = glob.glob(path + "/*.csv")
 list=[]
 integer=0
 for file in allFiles:
     if integer<=50:
-        df = pd.read_csv(file)#index_col='Date', header=0,)#parse_dates=['Date'])
+        df = pd.read_csv(file,)# index_col=0)# header=0,)#parse_dates=['Date'])
+        print(df.index)
         list.append(df)
         integer+=1
 
