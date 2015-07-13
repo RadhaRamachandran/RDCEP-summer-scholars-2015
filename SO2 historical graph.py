@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 def histrorical_so2():
-    location = "C:\Anthony\RDCEP things"
+    location = "C:\RDCEP Github"
     filenames = ["so2 2015", "so2 2014", "so2 2013", "so2 2012", "so2 2011",
                  "so2 2010", "so2 2009", "so2 2008", "so2 2007", "so2 2006",
                  "so2 2005", "so2 2004", "so2 2003", "so2 2002", "so2 2001",

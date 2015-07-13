@@ -12,7 +12,7 @@ matplotlib.style.use('ggplot')
 
 import glob
 
-path =r'C:\Rdcep Github\Ben Git Stuff\DataFilesLead'
+path =r'C:\Rdcep Github\Ben Git Stuff\DataFilesPM2'
 allFiles = glob.glob(path + "/*.csv")
 frame = pd.DataFrame()
 list_ = []
@@ -23,16 +23,15 @@ frame = pd.concat(list_)
 
 
 
-df3=frame['Daily Mean Pb Concentration']
-#df3=df3.sort_index(by=['Date'], ascending=[True])
-df3.plot(label="Measured Lead Level")
-plt.title('Daily Lead Levels for 1980-2015 in Cook County, IL')
+df3=frame['Daily Mean PM2.5 Concentration']
+#df3=df3.sort_index(by=['PERCENT COMPLETE'], ascending=[True])
+df3.plot(label="Measured PM2.5 Level")
+plt.title('Daily PM2.5 Levels for 1980-2015 in Cook County, IL')
 plt.xlabel('Date')
-plt.ylabel('Lead Concentration in Air (ug/m3)')
-plt.axhline(y=.15, xmin=0, xmax=1, linewidth=2, color = 'b',label='Dangerous Lead Level')
+plt.ylabel('Pm2 Concentration in Air (ug/m^3)')
+plt.axhline(y=35, xmin=0, xmax=1, linewidth=2, color = 'b',label='Dangerous PM2 Level')
 plt.legend()
 plt.show()
-
 
 
 
