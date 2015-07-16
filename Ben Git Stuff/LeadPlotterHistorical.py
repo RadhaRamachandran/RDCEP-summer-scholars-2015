@@ -32,6 +32,7 @@ plt.ylabel('Lead Concentration in Air (ug/m3)')
 plt.axhline(y=.15, xmin=0, xmax=1, linewidth=2, color = 'b',label='Dangerous Lead Level')
 plt.legend()
 plt.show()
+plt.savefig('C:\Rdcep Github\Ben Git Stuff\DataFilesLead.png')
 
 
 
