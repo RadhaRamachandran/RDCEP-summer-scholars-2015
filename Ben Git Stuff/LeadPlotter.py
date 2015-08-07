@@ -12,7 +12,7 @@ matplotlib.style.use('ggplot')
 
 
 
-df = pd.read_csv("C:\\Users\Ben\Desktop\\ad_viz_plotval_data.csv", index_col='Date', parse_dates=True)
+df = pd.read_csv("C:\\Users\\Ben\\Desktop\\ad_viz_plotval_data.csv", index_col='Date', parse_dates=True)
 df.head()
 df2 = df[['AQS_SITE_ID', 'STATE', 'Daily Mean Pb Concentration','UNITS']]
 print(df2.head())

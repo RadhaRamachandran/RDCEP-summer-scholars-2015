@@ -24,6 +24,9 @@ frame = pd.concat(list_)
 
 
 
+
+
+
 df3=frame['Daily Max 8-hour Ozone Concentration']
 #df3=df3.sort_index(by=['PERCENT COMPLETE'], ascending=[True])
 df3.plot(label="Measured Lead Level")
@@ -32,6 +35,8 @@ plt.xlabel('Date')
 plt.ylabel('Ozone Concentration in Air (ppm)')
 plt.axhline(y=.075, xmin=0, xmax=1, linewidth=2, color = 'b',label='Dangerous Ozone Level')
 plt.legend()
+y = np.sin(2 * np.pi)
+plt.plot(y)
 plt.show()
 
 

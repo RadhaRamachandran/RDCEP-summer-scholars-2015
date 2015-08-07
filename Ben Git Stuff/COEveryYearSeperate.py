@@ -8,7 +8,11 @@ import matplotlib.pyplot as plt
 import matplotlib
 from matplotlib.pyplot import text
 from numpy import arange
+#import geopandas.geoseries as gp
+
+
 matplotlib.style.use('ggplot')
+
 
 import glob
 
@@ -18,6 +22,7 @@ list=[]
 integer=0
 for file in allFiles:
     if integer<=50:
+        #df2=gp.from_file()
         df = pd.read_csv(file)# index_col=0)# header=0,)#parse_dates=['Date'])
         print(df.index)
         list.append(df)
