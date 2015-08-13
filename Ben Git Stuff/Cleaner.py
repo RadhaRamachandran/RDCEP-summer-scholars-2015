@@ -79,8 +79,8 @@ list=[]
 
 '''These are all the possible names for columns'''
 
-datePossible=['Date','DATE_LOCAL','DATE','Date_Local']
-dataColumnsPossible=['Daily Mean Pb Concentration','Daily Max 8-Hour Ozone Concentration','Daily Max 8-hour CO Concentration','Daily Mean PM2.5 Concentration','Result','Values','Datum']
+datePossible=['Date','DATE_LOCAL','DATE','Date_Local', 'Date Local']
+dataColumnsPossible=['Daily Mean Pb Concentration','Daily Max 8-Hour Ozone Concentration','Daily Max 8-hour CO Concentration','Daily Mean PM2.5 Concentration','Result','Values', 'Daily Max 1-hour NO2 Concentration', '1st Max Value', 'Daily Max 1-hour SO2 Concentration', 'Daily Mean PM10 Concentration']
 newColumns=['Date','Lat','Long','Type','Value','Unit']
 latPossible=['SITE_LATITUDE','Latitude']
 longPossible=['SITE_LONGITUDE','Longitude']
