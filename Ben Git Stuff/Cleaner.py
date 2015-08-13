@@ -64,7 +64,7 @@ def clean(argsDict):
         #Temporary variable
         newUnit=unitSet
         #populates the Units column of the output frame
-        argsDict['outputFrame']['Unit']=argsDict['dirtyFrame'][str(newUnit)]
+        argsDict['outputFrame']['Unit']=argsDict['dirtyFrame'][str(newUnit)[2:-2]]
     return argsDict['outputFrame']
 
 
@@ -80,11 +80,11 @@ list=[]
 '''These are all the possible names for columns'''
 
 datePossible=['Date','DATE_LOCAL','DATE','Date_Local']
-dataColumnsPossible=['Daily Mean Pb Concentration','Daily Max 8-Hour Ozone Concentration','Daily Max 8-hour CO Concentration','Daily Mean PM2.5 Concentration','Result','Values','Datum']
+dataColumnsPossible=['Daily Mean Pb Concentration','Daily Max 8-Hour Ozone Concentration','Daily Max 8-hour CO Concentration','Daily Mean PM2.5 Concentration','Result','Values','Datum','Value']
 newColumns=['Date','Lat','Long','Type','Value','Unit']
 latPossible=['SITE_LATITUDE','Latitude']
 longPossible=['SITE_LONGITUDE','Longitude']
-unitPossible=['ppm','ppb','ug/m3','DEG C','DEG F','CFS','JTU','IN','M','uS/CM','MG/L','MG/KG','S.U.','PPT','UG/L','NS','NU','#/100ML','MPN/100ML','UG/KG','MMOL/KG','MG/KG','DAYS','CFS','% BY WT','NTU','m','Units','Unit']
+unitPossible=['ppm','ppb','ug/m3','DEG C','DEG F','CFS','JTU','IN','M','uS/CM','MG/L','MG/KG','S.U.','PPT','UG/L','NS','NU','#/100ML','MPN/100ML','UG/KG','MMOL/KG','MG/KG','DAYS','CFS','% BY WT','NTU','m','Units','Unit','UNITS']
 
 '''From here on, I am casting the lists into sets, in order to be able to do the set.intersection() function to check which one is needed per file'''
 
@@ -111,6 +111,6 @@ for file in allFiles:
     list.append(loadClean(argsDict=argsDict))
 
 #this is the path where the clean CSV will be stored
-path2='C:\Rdcep Github\EPADataFiles\FinalCSV.csv'
+path2='C:\Rdcep Github\Ben Git Stuff\FinalCSV.csv'
 #in one line, this concatenates the clean dataFrames to one dataFrame and then writes to a CSV
 pd.concat(list).to_csv(path2)
