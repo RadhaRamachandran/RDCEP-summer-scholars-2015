@@ -22,7 +22,7 @@ path =r'C:\Rdcep Github\EPADataFiles'
 allFiles = glob.glob(path + "/*.csv")
 list=[]
 
-argsDict={'file':None,'dirtyFrame':None,'outputFrame':None,'dataPossible':dataColumnsPossible,'latPossible':latPossible,'longPossible':longPossible,'unitPossible':unitPossible}
+argsDict={'file':None,'dirtyFrame':None,'outputFrame':None,'dataPossible':dataColumnsPossible,'latPossible':latPossible,'longPossible':longPossible,'unitPossible':unitPossible,'datePossible':datePossible}
 
 for file in allFiles:
     dfNew=pd.DataFrame(columns=newColumns)
