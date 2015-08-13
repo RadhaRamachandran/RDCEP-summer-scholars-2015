@@ -1,13 +1,15 @@
 import pandas as pd
-#import geopandas.geoseries as gp
+
 from matplotlib import pyplot as plt
 import numpy as np
 import matplotlib
 import vincent as vc
 
-matplotlib.style.use('ggplot')
 
 import glob
+
+
+matplotlib.style.use('ggplot')
 
 
 path =r'C:\Rdcep Github\Ben Git Stuff\DataFilesLead'
@@ -21,7 +23,8 @@ for file_ in allFiles:
     list_.append(df)
     list2.append(df2)
 frame = pd.concat(list_)
-frame2=pd.concat(list2)
+frame['Type']=['Air-Lead']*len(frame.index)
+print(frame.head())
 
 
 def makeYearlyAverage(frame):
@@ -41,9 +44,19 @@ def makeYearlyAverage(frame):
     return averagesDict
 
 
+def meanYearly(frame):
+    averageList=[]
+    for year in range(1980,2015,1):
+        for f in range(len(frame.index)):
+            tempAverage=np.empty(0)
+            if str(frame['Date'][f][-4:])==str(year):
+                np.append(tempAverage,frame['Daily Mean Pb Concentration'][f])
+                averageList.append(np.mean(tempAverage))
+                print(tempAverage)
+    return averageList
 
+#meanYearly(frame=frame2)
 
-print(makeYearlyAverage(frame=frame))
 
 '''
 i=0
