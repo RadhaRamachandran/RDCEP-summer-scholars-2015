@@ -61,8 +61,8 @@
       <file leaf-file-name="Cleaner.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cleaner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5049505">
-              <caret line="83" column="303" selection-start-line="83" selection-start-column="303" selection-end-line="83" selection-end-column="303" />
+            <state vertical-scroll-proportion="0.4108911">
+              <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
               <folding>
                 <element signature="e#19#38#0" expanded="true" />
               </folding>
@@ -239,23 +239,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="lookBusy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Ben Git Stuff" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lookBusy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="Cleaner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,6 +286,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Ben Git Stuff" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../so2 map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pyomegle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ben Git Stuff" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/pyomegle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -431,18 +431,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.LeadPlotterHistorical" />
-      <item index="1" class="java.lang.String" itemvalue="Python.lookBusy" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Cleaner" />
-      <item index="3" class="java.lang.String" itemvalue="Python.charts" />
-      <item index="4" class="java.lang.String" itemvalue="Python.so2 map" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Cleaner" />
+      <item index="2" class="java.lang.String" itemvalue="Python.charts" />
+      <item index="3" class="java.lang.String" itemvalue="Python.so2 map" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pyomegle" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.Cleaner" />
-        <item index="1" class="java.lang.String" itemvalue="Python.so2 map" />
-        <item index="2" class="java.lang.String" itemvalue="Python.charts" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeadPlotterHistorical" />
-        <item index="4" class="java.lang.String" itemvalue="Python.lookBusy" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pyomegle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.so2 map" />
+        <item index="3" class="java.lang.String" itemvalue="Python.charts" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeadPlotterHistorical" />
       </list>
     </recent_temporary>
   </component>
@@ -513,16 +513,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OzonePlotter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeadPlotter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -937,10 +927,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/pyomegle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Cleaner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5049505">
-          <caret line="83" column="303" selection-start-line="83" selection-start-column="303" selection-end-line="83" selection-end-column="303" />
+        <state vertical-scroll-proportion="0.4108911">
+          <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
           <folding>
             <element signature="e#19#38#0" expanded="true" />
           </folding>
