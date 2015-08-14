@@ -7,12 +7,16 @@ app (file stdout,file stderr,file output) concatScript(file concatScript,file in
 }
 
 file script<single_file_mapper; file="C:\\Rdcep Github\\Ben Git Stuff\\Cleaner.Swift.py">;
-file concatScript<single_file_mapper; file="C:\\Rdcep Github\\Ben Git Stuff\concatenatingScript.py">
 
 file inputs[] <simple_mapper;location="C:\\Rdcep Github\\EPADataFiles",prefix="d",suffix=".csv">;
 file outputs[]<simple_mapper;location="C:\\Rdcep Github\\Ben Git Stuff\\CleanedFiles",prefix="Cleaned",suffix=".csv">;
+
+
+file concatScript<single_file_mapper; file="C:\\Rdcep Github\\Ben Git Stuff\concatenatingScript.py">
+
 file input2<single_file_mapper;location="">
 file output<single_file_mapper;location="">
+
 
 foreach dirtyFile,i in inputs{
 	file out<single_file_mapper;file=strcat("outputs\\out",i,".out")>;
@@ -23,6 +27,7 @@ foreach dirtyFile,i in inputs{
  
 file outp<single_file_mapper;file=strcat("outputs\\","concatOutput",".out")>
 file err<single_file_mapper;file=strcat("outputs\\","concaterr",".err")>
+
 (outp,err,output)=concatScript(concatScript, input2);
 
 #Run PHP sqlizing script
