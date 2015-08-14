@@ -25,6 +25,7 @@ for file_ in allFiles:
 frame = pd.concat(list_)
 frame['Type']=['Air-Lead']*len(frame.index)
 print(frame.head())
+frame.to_sql()
 
 
 def makeYearlyAverage(frame):

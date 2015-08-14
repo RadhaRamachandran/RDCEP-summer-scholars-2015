@@ -1,6 +1,7 @@
 __author__ = 'Ben'
 import pandas as pd
 import glob
+import sys
 
 
 def loadClean(argsDict):
@@ -80,8 +81,6 @@ def clean(argsDict):
 path =r'C:\Rdcep Github\EPADataFiles'
 allFiles = glob.glob(path + "/*.csv")
 
-#Creates an empty list that will eventually be concatenated into a large dataframe, and then a CSV
-list=[]
 
 '''These are all the possible names for columns'''
 
@@ -107,6 +106,8 @@ datePossible=set(datePossible)
 argsDict={'file':None,'dirtyFrame':None,'outputFrame':None,'dataPossible':dataColumnsPossible,'latPossible':latPossible,'longPossible':longPossible,'unitPossible':unitPossible,'datePossible':datePossible}
 
 '''This is the loop that goes through every file in the same directory as before, and loads and cleans every one inside it'''
+
+
 for file in allFiles:
     #creates empty dataFrame in new, clean format
     dfNew=pd.DataFrame(columns=newColumns)
@@ -116,8 +117,7 @@ for file in allFiles:
     argsDict['file']=file
     #appends he cleaned file to the empty list from before
     list.append(loadClean(argsDict=argsDict))
-
-#this is the path where the clean CSV will be stored
-path2='C:\Rdcep Github\Ben Git Stuff\FinalCSV.csv'
-#in one line, this concatenates the clean dataFrames to one dataFrame and then writes to a CSV
-pd.concat(list).to_csv(path2)
+    #this is the path where the clean CSV will be stored
+    outFile='C:\Rdcep Github\Ben Git Stuff\FinalCSV.csv'
+    #in one line, this concatenates the clean dataFrames to one dataFrame and then writes to a CSV
+    argsDict['outputFrame'].to_csv(outFile)
