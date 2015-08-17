@@ -1,28 +1,35 @@
 __author__ = 'Ben'
 import pandas as pd
 import glob
+import sys
 
-'''This function is a wrapper function that loads a file and cleans it, then returns a clean dataFrame.  Takes an args dictionary,
-the makeup of which is described below
-Takes an args dict, with every key populated, except for dirtyFrame and  returns a cleaned frame.'''
+
 def loadClean(argsDict):
+    """This function is a wrapper function that loads a file and cleans it, then returns a clean dataFrame.  Takes an args dictionary,
+    the makeup of which is described below
+    Takes an args dict, with every key populated, except for dirtyFrame and  returns a cleaned frame."""
+
     #sets a variable to be the result of cleaning a loaded file
     dfClean=clean(load(argsDict))
     #returns the clean data frame
     return dfClean
 
-'''This function loads the file from a CSV into a pandas DataFrame, it ues the path supplied in the argsDictionary to load a file
-takes an args dict, returns an updated args dict'''
+
 def load(argsDict):
+    """This function loads the file from a CSV into a pandas DataFrame, it ues the path supplied in the argsDictionary to load a file
+    takes an args dict, returns an updated args dict"""
+
     #In one line, reads a CSV and ads it to the dictionary
     argsDict['dirtyFrame']=pd.read_csv(argsDict['file'])
     #returns the dictionary
     return argsDict
 
-'''the clean function is really the heart of this program.  Using sets in order to cover all possibilities, it sorts and cleans all CSVs
-that are in a format the EPA data is(and with minimal modification, the urban data as well), and puts it into a clean format, before
-returning the pandas DataFrame.  The format of the columns is [index number, 'Date','Lat','Long','Type','Value','Unit']'''
+
 def clean(argsDict):
+    """the clean function is really the heart of this program.  Using sets in order to cover all possibilities, it sorts and cleans all CSVs
+    that are in a format the EPA data is(and with minimal modification, the urban data as well), and puts it into a clean format, before
+    returning the pandas DataFrame.  The format of the columns is [index number, 'Date','Lat','Long','Type','Value','Unit']"""
+
     #defines a general set consisting of all of the column names of the current dataFrame
     generalSet=set(argsDict['dirtyFrame'].columns.values)
     #Creates a set that is the name of the column that contains the data of interest
@@ -68,14 +75,12 @@ def clean(argsDict):
     return argsDict['outputFrame']
 
 
-'''This part of the script will be re-implemented in swift'''
+'''This part of the script will be re-implemented in swift, from here down'''
 
 #Sets and loads file paths from a director specified here
 path =r'C:\Rdcep Github\EPADataFiles'
 allFiles = glob.glob(path + "/*.csv")
 
-#Creates an empty list that will eventually be concatenated into a large dataframe, and then a CSV
-list=[]
 
 '''These are all the possible names for columns'''
 
@@ -85,9 +90,9 @@ dataColumnsPossible=['Daily Mean Pb Concentration','Daily Max 8-Hour Ozone Conce
 newColumns=['Date','Lat','Long','Type','Value','Unit']
 latPossible=['SITE_LATITUDE','Latitude']
 longPossible=['SITE_LONGITUDE','Longitude']
-unitPossible=['ppm','ppb','ug/m3','DEG C','DEG F','CFS','JTU','IN','M','uS/CM','MG/L','MG/KG','S.U.','PPT','UG/L','NS','NU','#/100ML','MPN/100ML','UG/KG','MMOL/KG','MG/KG','DAYS','CFS','% BY WT','NTU','m','Units','Unit','UNITS']
+unitPossible=['UNIT','Units','Unit','UNITS']
 
-'''From here on, I am casting the lists into sets, in order to be able to do the set.intersection() function to check which one is needed per file'''
+'''For this block of code, I am casting the lists into sets, in order to be able to do the set.intersection() function to check which one is needed per file'''
 
 newColumnsSet=set(newColumns)
 dataColumnsPossible=set(dataColumnsPossible)
@@ -101,6 +106,8 @@ datePossible=set(datePossible)
 argsDict={'file':None,'dirtyFrame':None,'outputFrame':None,'dataPossible':dataColumnsPossible,'latPossible':latPossible,'longPossible':longPossible,'unitPossible':unitPossible,'datePossible':datePossible}
 
 '''This is the loop that goes through every file in the same directory as before, and loads and cleans every one inside it'''
+
+
 for file in allFiles:
     #creates empty dataFrame in new, clean format
     dfNew=pd.DataFrame(columns=newColumns)
@@ -110,8 +117,7 @@ for file in allFiles:
     argsDict['file']=file
     #appends he cleaned file to the empty list from before
     list.append(loadClean(argsDict=argsDict))
-
-#this is the path where the clean CSV will be stored
-path2='C:\Rdcep Github\Ben Git Stuff\FinalCSV.csv'
-#in one line, this concatenates the clean dataFrames to one dataFrame and then writes to a CSV
-pd.concat(list).to_csv(path2)
+    #this is the path where the clean CSV will be stored
+    outFile='C:\Rdcep Github\Ben Git Stuff\FinalCSV.csv'
+    #in one line, this concatenates the clean dataFrames to one dataFrame and then writes to a CSV
+    argsDict['outputFrame'].to_csv(outFile)

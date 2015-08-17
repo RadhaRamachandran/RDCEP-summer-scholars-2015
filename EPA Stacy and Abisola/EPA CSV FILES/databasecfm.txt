@@ -1,0 +1,557 @@
+	
+
+	<link rel="shortcut icon" href="http://www.water.ca.gov/caimages/favicon.ico" />
+
+<script type="text/javascript">
+<!--
+    _CF_checkCFForm_1 = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+
+	
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	
+
+	
+	
+
+	
+	<title>Error Page for the Department of Water Resources</title>
+	
+
+
+	<script type="text/javascript" src="/cajs/navigation.js"></script>
+	<script type="text/javascript" src="/cajs/department.js"></script>
+	<script type="text/javascript" src="/cajs/gatag.js"></script>
+
+		
+		<script type="text/javascript" src="/cajs/site.js"></script>
+	
+
+
+	
+	<style type="text/css">
+
+	/* ***** The master style sheet - DO NOT CHANGE ***** */
+
+	@import url("/cacss/ca_master.css");
+
+	/* ***** The department-specific style sheet statement goes here ***** */
+
+	@import url("/cacss/ca_department.css");
+
+	/* ***** Portal styles ***** */
+
+	@import url("/cacss/portal.css");
+
+	/* ***** Select the 1-level or 2-level navigation ***** */
+		/* Set Portal Sub Link Size */
+
+	@import url("/cacss/navigation_2_level.css");
+
+	/* ***** Select the 1, 2 or 3 column content section ***** */
+
+	
+
+		@import url("/cacss/content_2_column.css");
+
+	
+
+	/* ***** Select a color scheme ***** */
+
+	@import url("/cacss/color_scheme_08_sc.css");
+
+	</style>
+
+	
+
+
+
+	
+	
+	
+	
+	<script type="text/javascript">
+	<!--
+
+	var defaultMainList = "Home";
+
+	// -->
+	</script>
+	
+
+
+
+	
+
+	
+	<meta name="Author" content="State of California" />
+	<meta name="Description" content="California Department of Water Resources home page" />
+	<meta name="Keywords" content="Oroville; recreation; CDEC; CIMIS; legislation; water maps; water conditions" />
+	<meta name="Keywords" content="employment; river conditions; reservoir levels; snow conditions; water delivery; grants; loans;" />
+	<meta name="Keywords" content="Department of Water Resources; DWR; State Water Project; SWP;" />
+	<meta name="date" content="2007-01" />
+
+	
+
+	<meta name="Keywords" content="" />
+
+
+
+<link rel="shortcut icon" href="/caimages/favicon.ico" />
+
+
+
+	
+
+
+
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42209506-1', 'water.ca.gov');
+  ga('send', 'pageview');
+  
+</script>
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3419582-2']);  // for state-wide analytics - do not remove or change
+  _gaq.push(['_setDomainName', '.ca.gov']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<link rel="stylesheet" href="/cacss/search_gss.css" media="screen, projection, print, tv" type="text/css" />
+<script type="text/javascript" src="/cajs/search_gss.js"></script>
+
+</head>
+
+
+
+
+
+
+
+<body>
+
+
+
+<div id="heading">
+	<div id="search_and_skipto">
+
+		
+		<div id="skipto_container">Skip to: <a href="#middle_column">Content</a> | <a href="#footer">Footer</a> | <a href="http://www.water.ca.gov/canav/accessibility.cfm">Accessibility</a></div>
+		
+
+		
+			
+
+		
+	
+
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		google.load('search', '1');
+		google.setOnLoadCallback(function() {
+			google.search.CustomSearchControl.attachAutoCompletion(
+				'001779225245372747843:mdsmtl_vi1a',
+				document.getElementById('search_ca_textfield'),
+				'ca_form');
+		});
+		google.setOnLoadCallback(function() {
+			google.search.CustomSearchControl.attachAutoCompletion(
+				'001779225245372747843:mxwnbyjgliw', // update this value with your search engine unique ID. Submit a request to the OTech Service Desk if you don't already know your unique search engine ID.
+				document.getElementById('search_local_textfield'),
+				'local_form');
+		});
+	</script>
+
+	<div id="head_search" class="javascript_off">
+		<form id="ca_form" class="hidden" method="get" action="http://www.google.com/cse"> <!-- the form action will be changed using javascript -->
+			<div class="textfield_container">
+				<label for="search_ca_textfield" accesskey="s" class="hidden">Statewide search: </label>
+				<input type="text" name="q" id="search_ca_textfield" size="40" value="Search" onfocus="if(this.value=='Search')this.value=''" onblur="if(this.value=='')this.value='Search'" />
+
+				<input type="hidden" name="cx" value="001779225245372747843:mdsmtl_vi1a" />
+				<input type="hidden" name="cof" value="" /> <!-- this value will be set using javascript -->
+				<input type="hidden" name="ie" value="UTF-8" />
+			</div>
+			<div class="submit_container">
+				<input type="image" alt="Search" title="Search" name="submit" src="/caimages/ca_master/search_button.gif" />
+			</div>
+		</form>	
+
+		<form id="local_form" method="get" action="http://www.google.com/cse"> <!-- the form action will be changed using javascript -->
+			<div class="textfield_container">
+				<label for="search_local_textfield" accesskey="s" class="hidden">Search this site: </label>
+				<input type="text" name="q" id="search_local_textfield" size="40" value="Search" onfocus="if(this.value=='Search')this.value=''" onblur="if(this.value=='')this.value='Search'" />
+
+				<input type="hidden" name="cx" value="001779225245372747843:mxwnbyjgliw" /> <!-- update this value with your search engine unique ID. Submit a request to the OTech Service Desk if you don't already know your unique search engine ID. -->
+				<input type="hidden" name="cof" value="" /> <!-- this value will be set using javascript -->
+				<input type="hidden" name="ie" value="UTF-8" />
+			</div>
+			<div class="submit_container">
+				<input type="image" alt="Search" title="Search" name="submit" src="/caimages/ca_master/search_button.gif" />
+			</div>
+		</form>
+
+		<form id="control" action="/serp.cfm">
+			<div id="radio_container">
+				<input type="radio" name="which" id="head_srch_local" value="local" class="radiobutton" checked="checked" />
+				<label for="head_srch_local" accesskey="l" id="head_srch_l_lbl">DWR</label>
+				<input type="radio" name="which" id="head_srch_ca" value="ca" class="radiobutton" />
+				<label for="head_srch_ca" accesskey="c" id="head_srch_c_lbl">California</label>
+			</div>
+		</form>
+	</div>
+
+		
+
+	</div>
+
+	
+	<a id="state_logo" href="http://www.ca.gov/" title="State of California web site"><span class="hidden">CA.GOV</span></a><span class="hidden"> | </span>
+	<a id="agency_branding" href="http://www.water.ca.gov/"><img src="/caimages/ca_department/dwr_masthead.jpg" alt="Department of Water Resources Home" width="370" height="79" /></a>
+	
+
+</div>
+
+
+
+
+
+	
+	<div id="navigation">
+		<ul id="nav_list">
+			<li><a href="/">Home<span></span></a>
+				<ul>
+					<!--<li><a href="/about/">About DWR</a></li>-->
+                    <li><a href="http://www.water.ca.gov/aboutus.cfm">About DWR</a></li>
+					<!--<li><a href="/about/contacts.cfm">Contact Information</a></li>-->
+                    <li><a href="http://www.water.ca.gov/contact_info.cfm">Contact Information</a></li>
+					<li><a href="/hro/">Job</a></li>
+					<!--<li><a href="/exec-bios/">Executive Bios</a></li>-->
+                    <li><a href="http://www.water.ca.gov/executive_bios.cfm">Executive Bios</a></li>
+					<li><a href="/nav/nav.cfm?loc=b&amp;id=A">Browse Topics</a></li>
+				</ul>
+			</li>
+			<li><a href="/newsroom/">Newsroom<span></span></a>
+				<ul>
+					<li><a href="/news/archive/">News Archive</a></li>
+					<li><a href="/newsroom/photo/photolibrary.cfm">Photo Library</a></li>
+					<li><a href="/newsroom/video/videoarchive.cfm">Video Archive</a></li>
+					<li><a href="/newsroom/podcast/podcasts.cfm">Podcasts</a></li>
+					<li><a href="http://www.water.ca.gov/publicaffairs.cfm">Public Affairs</a></li>
+				</ul>
+			</li>
+			<li><a href="/nav/index.cfm?id=100">Flood &amp; Safety<span></span></a>
+				<ul>
+					<li><a href="/floodsafe/">FloodSAFE California</a></li>
+					<li><a href="/levees/">Levee Repair</a></li>
+					<li><a href="/floodmgmt/">Flood Management</a></li>
+			
+						<li><a href="http://cdec.water.ca.gov/">CDEC</a></li>
+					
+					<li><a href="/cvfmp/">CVFMP</a></li>
+					<li><a href="/sfmp/">SFMP</a></li>
+					<li><a href="/floodsafe/fessro/">FESSRO</a></li>
+					<li><a href="/nav/index.cfm?id=100">All Flood & Safety Topics...</a></li>
+				</ul>
+			</li>
+			<li><a href="/nav/index.cfm?id=101">Planning<span></span></a>
+				<ul>
+					<li><a href="http://www.waterplan.water.ca.gov/">California Water Plan</a></li>
+					<li><a href="/landwateruse/">Land &amp; Water Use</a></li>
+					<li><a href="/storage/">Surface Storage Investigations</a></li>
+					<li><a href="/system_reop/">System Reoperation</a></li>
+					<li><a href="/floodsafe/fessro/">FESSRO</a></li>
+					<li><a href="/nav/index.cfm?id=101">All Planning Topics...</a></li>
+				</ul>
+			</li>
+			<li><a href="/nav/index.cfm?id=102">State Water Project<span></span></a>
+				<ul>
+					<li><a href="/swp/">State Water Project</a></li>
+					<li><a href="/swpao/deliveries.cfm">Water Deliveries</a></li>
+					<li><a href="/swp/operationscontrol/">Operations Control</a></li>
+					<li><a href="/swp/">Facilities</a></li>
+					<li><a href="/hlpco/p2100.cfm">Oroville Facilities Relicensing</a></li>
+					<li><a href="/nav/index.cfm?id=102">All SWP Topics...</a></li>
+				</ul>
+			</li>
+			<li><a href="/nav/index.cfm?id=103">Funding<span></span></a>
+				<ul>
+					<li><a href="/nav/index.cfm?id=103">Grants &amp; Loans Information</a></li>
+					<li><a href="/floodmgmt/fpo/sgb/fpcp/">Flood Corridor Grants</a></li>
+					<li><a href="/floodmgmt/fpo/sgb/fcs/">Flood Control Subventions</a></li>
+					<li><a href="/nav/index.cfm?id=103">All Funding Topics...</a></li>
+				</ul>
+			</li>
+			<li><a href="/nav/index.cfm?id=104">Environment<span></span></a>
+				<ul>
+					<li><a href="/climatechange/">Climate Change</a></li>
+					<li><a href="/deltainit/">Delta Initiatives</a></li>
+					<li><a href="/environmentalservices/">Environmental Services</a></li>
+					<li><a href="/iep/">IEP</a></li>
+					<li><a href="/waterconditions/">Water Conditions</a></li>
+					<li><a href="/floodsafe/fessro/">FESSRO</a></li>
+					<li><a href="/nav/index.cfm?id=104">All Environment Topics...</a></li>
+				</ul>
+			</li>
+			<li><a href="/nav/index.cfm?id=105">Supply &amp; Use<span></span></a>
+				<ul>
+					<li><a href="http://cdec.water.ca.gov/snow/">California Cooperative Snow Surveys</a></li>
+					<li><a href="/swpao/wc_b.cfm">Water Supply Contracts</a></li>
+					<li><a href="/wateruseefficiency/">Water Use Efficiency</a></li>
+					<li><a href="/nav/index.cfm?id=105">All Supply/Use Topics...</a></li>
+				</ul>
+			</li>
+
+			<li><a href="/nav/index.cfm?id=106">Data<span></span></a>
+				<ul>
+			
+					<li><a href="http://cdec.water.ca.gov/">CDEC</a></li>
+			
+					<li><a href="http://www.cimis.water.ca.gov">CIMIS</a></li>
+					<li><a href="/waterdatalibrary/">WDL</a></li>
+					<li><a href="/iep/">IEP</a></li>
+					<li><a href="/iwris/">IWRIS</a></li>
+					<li><a href="/nav/index.cfm?id=106">All Data Topics...</a></li>
+				</ul>
+			</li>
+		</ul>
+		
+
+		<div id="background_top"></div>
+	</div>
+	
+
+
+		<div id="page_title"><h2>Error Page for the Department of Water Resources</h2></div>
+	
+
+
+<div id="main_content_1">
+	<div id="main_content_2">
+
+	
+		
+	
+
+
+<div id="left_column">
+
+	
+	
+
+	
+	
+
+
+
+
+
+
+
+			<div>	
+				
+				<a href="http://www.resources.ca.gov/"><img src="/caimages/ca_department/laird.gif" alt="California Natural Resources Agency" height="62" width="199" /></a>
+				
+				
+				<a href="/exec-bios/director.cfm"><img src="/caimages/ca_department/cowin.jpg" alt="Mark Cowin, Director" height="62" width="199" /></a>
+				
+			</div>	
+<div class="left_column_top">
+
+	
+
+	
+
+	
+	<h3>Top DWR Sites</h3>
+		<ul class="list_decorative_dark" style="margin:0 8px 0 0;">
+			
+				<li><a href="http://cdec.water.ca.gov/">California Data Exchange Center (CDEC)</a></li>
+			
+			<li><a href="http://wwwcimis.water.ca.gov/cimis/welcome.jsp">CA Irrigation Management Information System (CIMIS)</a></li>
+			<li><a href="/waterdatalibrary/">Water Data Library (WDL)</a></li>
+			<li><a href="/jobs/dwr_job_vacancies.cfm">Jobs at DWR</a></li>
+
+			<li><a href="/floodmgmt/">Flood Management</a></li>
+			<li><a href="/nav/nav.cfm?loc=t&id=103">Grants and Loans</a></li>
+			<li><a href="http://www.waterplan.water.ca.gov/">California Water Plan</a></li>
+			<li><a href="/wateruseefficiency/">Water Use Efficiency</a></li>
+			<li><a href="http://www.water.ca.gov/recreation/">Recreation</a></li>
+		</ul>
+	
+
+	
+
+
+</div>
+
+
+
+
+
+<div class="column_inner">
+				
+	
+
+	
+	
+	<h3>Taking Care of Business</h3>
+		<ul class="list_decorative_dark" style="margin:0 0 0 0;">
+			<li><a href="http://www.water.ca.gov/calendar/public.cfm">Public Participation</a></li>
+			<li><a href="http://www.water.ca.gov/calendar/">Water Calendar</a></li>
+			<li><a href="/publicrecords/">Public Records</a></li>
+			<li><a href="http://www.water.ca.gov/publications/">Publications/Other Media</a></li>
+			<li><a href="http://www.water.ca.gov/jobs/">Jobs</a></li>
+			<li><a href="http://www.water.ca.gov/sbe/">SB/DVBE Information</a></li>
+			<li><a href="http://www.water.ca.gov/legislation/">Legislation</a></li>
+			<li><a href="http://www.water.ca.gov/publications/forms/">Forms</a></li>
+			<li><a href="/swp/index-es.cfm">EN ESPA&Ntilde;OL </a></li>
+		</ul>
+	
+					
+	
+
+</div>
+
+
+
+	
+
+</div>
+
+
+
+
+
+
+	
+	<div id="middle_column">	
+			
+		<div class="column_inner">	
+
+			
+
+<table border="0" bgcolor="white" cellspacing="0" cellpadding="0" width="100%" style="font-size:1.0em;">
+<tr>
+    <td> <p align=left>The page you have requested is either an invalid address or is no longer available.</p>
+
+      <p align=left>Please try one of the following:</p>
+      <ul>
+        <li>Make sure that the Web site address displayed in the address bar of your browser is spelled and formatted correctly.</li>
+        <li>If you reached this page by clicking a link, contact the Web site administrator to alert them that the link is incorrectly formatted.</li>
+        <li>Select a link on this page.</li>
+      </ul>
+      <p>To report a problem with this web site, please use our Comments and Suggestions form in the footer of this page.</p>
+
+	</td>
+</tr>
+</table>
+
+
+		</div>	
+	</div>	
+	
+
+	
+
+		<div class="cleaner">&nbsp;</div>
+
+	</div>	
+</div>	
+
+
+
+
+
+
+
+	<div class="cleaner">&nbsp;</div>
+
+	</div>	
+</div>	
+
+<div class="cleaner">&nbsp;</div>
+
+
+	
+	<div id="footer">
+	  <div>
+		<a href="#heading">Back to Top</a> | <a href="/canav/help.cfm">Help</a> | <a href="/canav/comment.cfm">Comments or Suggestions</a> | <a href="/canav/viewer.cfm">Document Viewers</a>
+		<span></span>
+	  </div>
+	  <p><span class="hidden"> | </span><a href="/canav/conditions.cfm">Conditions of Use</a> | <a href="/canav/privacy.cfm">Privacy Policy</a><br />
+	  Copyright &copy; 2015 State of California<br />
+
+	  
+	
+
+      <span class="smalltext">Last Modified: 08/27/2014</span>
+
+	
+
+	  </p>
+	</div>
+	
+
+
+</body>
+</html>
