@@ -1,0 +1,5 @@
+so2 data:
+
+null hypothesis has rsquared value of 0
+
+our model has r squared value of 0.3291 

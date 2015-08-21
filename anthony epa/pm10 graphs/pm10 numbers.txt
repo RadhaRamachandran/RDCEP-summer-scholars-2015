@@ -1,0 +1,1 @@
+for our pm10 average piecewise function, we have an r squared of .0503, a better fit than the null hypothesis.

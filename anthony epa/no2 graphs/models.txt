@@ -1,0 +1,13 @@
+no2 data:
+
+r squared yearly with line of best fit: 0.6087
+yearly line of best fit(OLS):-0.3602 x + 760.8
+
+r squared daily with line of best fit: 0.0765
+daily line of best fit(OLS): -0.001137 x + 50.03
+
+r squared daily with piecewise line of best fit: 0.0942
+daily piecewise equation: 
+f(x) = -0.003115 x + 53.72 for x<3947(days since 1980)
+       -0.0003041 x + 44.52 for 3947<= x <10955 (ds 1980)
+       -0.002605 x + 65.42 for x>10955(ds 1980)
