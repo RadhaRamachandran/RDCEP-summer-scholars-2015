@@ -23,10 +23,28 @@ for file_ in allFiles:
     list_.append(df)
     list2.append(df2)
 frame = pd.concat(list_)
+<<<<<<< HEAD
+
+df3=frame['Daily Mean Pb Concentration']
+df3.plot(label="Measured Lead Level")
+plt.title('Daily Lead Levels for 1980-2015 in Cook County, IL')
+plt.xlabel('Date')
+plt.ylabel('Lead Concentration in Air (ug/m3)')
+plt.axhline(y=.15, xmin=0, xmax=1, linewidth=2, color = 'b',label='Dangerous Lead Level')
+plt.legend()
+plt.show()
+df4=pd.read_csv('C:\\Users\Ben\Desktop\leadGas.csv',index_col='year')
+df4.plot()
+plt.title('Leaded Gasoline, Yearly Averages for 1980-1992')
+plt.xlabel('Date')
+plt.ylabel('Leaded Gasoline Sold on Average (KBarrels/Month)')
+plt.show()
+=======
 frame['Type']=['Air-Lead']*len(frame.index)
 print(frame.head())
 frame.to_sql()
 
+>>>>>>> 46f7e5fc2e731fd4bb502d53dee3f0418a5aef25
 
 def makeYearlyAverage(frame):
     columns = ['Year', 'Avezrage']
@@ -71,6 +89,9 @@ print(years)
 
 #frame['Year']=years
 '''
+<<<<<<< HEAD
+
+=======
 df3=frame['Daily Mean Pb Concentration']
 df3.plot(label="Measured Lead Level")
 plt.title('Daily Lead Levels for 1980-2015 in Cook County, IL')
@@ -82,6 +103,7 @@ plt.show()
 df4=pd.read_csv('C:\\Users\Ben\Desktop\leadGas.csv',index_col='year')
 df4.plot()
 plt.show()
+>>>>>>> 46f7e5fc2e731fd4bb502d53dee3f0418a5aef25
 #df5=frame.as_matrix(columns=['Date','Daily Mean Pb Concentration'])
 
 

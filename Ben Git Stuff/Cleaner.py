@@ -85,12 +85,14 @@ allFiles = glob.glob(path + "/*.csv")
 '''These are all the possible names for columns'''
 
 
-datePossible=['Date','DATE_LOCAL','DATE','Date_Local', 'Date Local']
-dataColumnsPossible=['Daily Mean Pb Concentration','Daily Max 8-Hour Ozone Concentration','Daily Max 8-hour CO Concentration','Daily Mean PM2.5 Concentration','Result','Values', 'Daily Max 1-hour NO2 Concentration', '1st Max Value', 'Daily Max 1-hour SO2 Concentration', 'Daily Mean PM10 Concentration']
+
+datePossible=['Date','DATE_LOCAL','DATE','Date_Local', 'Date Local','Datetime','DateTime']
+dataColumnsPossible=['ResultValue','Daily Max 8-hour Ozone Concentration','Daily Mean Pb Concentration','Daily Max 8-Hour Ozone Concentration','Daily Max 8-hour CO Concentration','Daily Mean PM2.5 Concentration','Result','Values', 'Daily Max 1-hour NO2 Concentration', '1st Max Value', 'Daily Max 1-hour SO2 Concentration', 'Daily Mean PM10 Concentration']
 newColumns=['Date','Lat','Long','Type','Value','Unit']
-latPossible=['SITE_LATITUDE','Latitude']
-longPossible=['SITE_LONGITUDE','Longitude']
-unitPossible=['UNIT','Units','Unit','UNITS']
+latPossible=['SITE_LATITUDE','Latitude','Lat','Lat ']
+longPossible=['SITE_LONGITUDE','Longitude','Lon','Long','Long ','Lon ']
+unitPossible=['UNIT','Units','Unit','UNITS','Result_Unit','Units of Measure','Unit of Measure','Units of Measurement']
+
 
 '''For this block of code, I am casting the lists into sets, in order to be able to do the set.intersection() function to check which one is needed per file'''
 
@@ -108,7 +110,9 @@ argsDict={'file':None,'dirtyFrame':None,'outputFrame':None,'dataPossible':dataCo
 '''This is the loop that goes through every file in the same directory as before, and loads and cleans every one inside it'''
 
 
+list=[]
 for file in allFiles:
+    print('Cleaning '+file+' ')
     #creates empty dataFrame in new, clean format
     dfNew=pd.DataFrame(columns=newColumns)
     #adds new dataframe to dictionary
@@ -118,6 +122,17 @@ for file in allFiles:
     #appends he cleaned file to the empty list from before
     list.append(loadClean(argsDict=argsDict))
     #this is the path where the clean CSV will be stored
-    outFile='C:\Rdcep Github\Ben Git Stuff\FinalCSV.csv'
-    #in one line, this concatenates the clean dataFrames to one dataFrame and then writes to a CSV
-    argsDict['outputFrame'].to_csv(outFile)
+    print('Finished cleaning '+file)
+
+print('Finished Cleaning All Files')
+print('Concatenating')
+outFile='C:\Rdcep Github\Ben Git Stuff\FinalCSVREAL.csv'
+#in one line, this concatenates the clean dataFrames to one dataFrame and then writes to a CSV
+frame=pd.concat(list)
+print('Finished Concatenating.  Writing.')
+frame.to_csv(outFile)
+print('Finished')
+
+
+
+
