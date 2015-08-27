@@ -1,0 +1,593 @@
+,index,Unnamed: 0,BlockNameBegin,BlockNameEnd,BlockNS,BlockEW,Time,NeighborhoodWatchSigns,WeCallPolice,TresspassingSign,DogSign,AlarmSystem, ForRent,ForSale,FallenTree,Construction,VacantLots,IllegalDumping,BoardedUp,NoSolicitation,Notes,Date,Surveyor,OfficialBoolean,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Latitude,Longitude,beat_number,ward_number,census_tract,CrimeCount (per beat)
+0,0,0,Wolcott/WickerPark,Wolcott/Ellen,1300N,1900W,11:20,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/14/2015,Anthony,FALSE,,,,,,41.90664375,-87.67339602,1424,1,241400,1289
+1,1,1,Evergreen/WickerPark,Evergreen/Milwaukee,1400N,1900W,11:32,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/14/2015,Anthony,FALSE,,,,,,41.90713088,-87.67456955,1424,1,241400,1289
+2,2,2,Beach/Wood,Beach/Paulina,1400N,1800W,11:42,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/14/2015,Anthony,FALSE,,,,,,41.90755158,-87.67246605,1433,2,241500,830
+3,3,3,Bosworth/LeMoyne,Bosworth/Blackhawk,1500N,1500W,12:06,0,0,null,null,null,3,0,0,0,0,0,0,null,,7/14/2015,Anthony,FALSE,,,,,,41.90882253,-87.66641684,1433,2,241600,830
+4,4,4,North/Hoyne,Pierce/Hoyne,1600N,2100W,12:48,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/14/2015,Anthony,FALSE,,,,,,41.91043005,-87.67995894,1424,2,241300,1289
+5,5,5,LeMoyne/Claremont,LeMoyne/Western,1500N,2300W,13:20,0,0,null,null,null,0,0,1,0,0,0,0,null,,7/14/2015,Anthony,FALSE,,,,,,41.90850369,-87.6859373,1424,1,241200,1289
+6,6,6,Lemoyne/Maplewood,Hirsch/Maplewood,1500N,2500W,14:47,0,0,null,null,null,1,1,0,0,1,0,0,null,,7/14/2015,Anthony,FALSE,,,,,,41.90843283,-87.69085728,1423,1,241100,738
+7,7,7,Potomac/Washtenaw,Potomac/California,1300N,2800W,15:19,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/14/2015,Anthony,FALSE,,,,,,41.90478382,-87.69444872,1423,26,242600,738
+8,8,8,Honore/Thomas,Honore/Augusta,1000N,1800W,9:56,2,1,null,null,null,1,1,1,1,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.90142265,-87.67352888,1212,1,242200,777
+9,9,9,Augusta/Hermitage,Augusta/Paulina,900N,1700W,10:13,0,0,null,null,null,1,0,0,0,1,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.89964242,-87.67102682,1213,1,242100,746
+10,10,10,Hermitage/Pearson,Hermitage/Chicago,800N,1700W,10:30,0,0,null,null,null,0,2,0,1,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.89728208,-87.67098696,1213,1,242100,746
+11,11,11,Paulina/Erie,Paulina/Wood,600N,1700W,10:41,0,0,null,null,null,0,1,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.894799,-87.669683,1215,1,243200,742
+12,12,12,Noble/Erie,Erire/Ada,600N,1300W,11:04,0,0,null,null,null,0,1,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.8934205,-87.66229841,1215,1,243400,742
+13,13,13,Noble/Erie,Noble/Huron,600N,1400W,11:10,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.8934205,-87.66229841,1215,1,243400,742
+14,14,14,Noble/Chestnut,Noble/Walton,900N,1400W,11:19,0,0,null,null,null,0,0,0,0,0,0,2,null,,7/13/2015,Gustavo,TRUE,,,,,,41.89797291,-87.66246669,1213,1,242000,746
+15,15,15,Kingsbury/Superior,Kingsbury/Larabee,700N,500W,11:55,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.89549299,-87.64147598,1831,42,81800,1602
+16,16,16,Hudson/Chestnut,Hudson/Chicago,800N,400W,12:13,0,0,null,null,null,0,0,0,0,0,0,6,null,,7/13/2015,Gustavo,TRUE,,,,,,41.89812348,-87.63995704,1823,27,81900,495
+17,17,17,Granville/Keystone,DeadEnd,6150N,4030W,13:43,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.99368432,-87.73010635,1711,39,120300,614
+18,18,18,Menomonee/Orleans,Menomonee/Sedgwick,1800N,300W,14:00,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.91475219,-87.63748598,1814,43,71500,723
+19,19,19,Commonwealth/Belden,Commonwealth/Fullerton,2300N,300W,14:24,0,0,null,null,null,2,0,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.92375073,-87.6380971,1814,43,71400,723
+20,20,20,Belden/Cambridge,Dead_End,2300N,500W,14:39,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.92373302,-87.64222881,1812,43,71300,656
+21,21,21,Belden/Geneva,Belden/Orchard,2300N,600W,14:48,0,0,null,null,null,0,4,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.92368431,-87.64384962,1812,43,71300,656
+22,22,22,Kemper/Geneva,Kemper/Orchard,2300N,600W,15:00,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.92460099,-87.64386733,1812,43,71300,656
+23,23,23,Orchard/Wrightwood,Orchard/Drummond,2600N,600W,15:25,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.92911355,-87.6464491,1935,43,70200,842
+24,24,24,Cambridge/Diversy,Cambridge/Surf,2800N,500W,15:43,0,0,null,null,null,0,2,0,0,0,0,0,null,,7/13/2015,Gustavo,TRUE,,,,,,41.93283342,-87.64267609,1935,43,70102,842
+25,25,25,Wolcott/Ellen,Wolcott/Marion,1300N,1900W,11:10,0,0,null,null,null,0,1,0,0,0,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.90549236,-87.67474669,1424,1,241400,1289
+26,26,26,Schiller/Damen,Schiller/WickerPark,1400N,2000W,11:29,0,0,null,null,null,0,0,0,2,0,0,2,null,,7/14/2015,Anthony,TRUE,,,,,,41.90714416,-87.67735946,1424,1,241400,1289
+27,27,27,Wood/Milwaukee,Wood/Julian,1400N,1800W,11:35,0,0,null,null,null,0,1,0,0,0,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.90727259,-87.67260776,1424,1,241500,1289
+28,28,28,Paulina/Beach,Paulina/Blackhawk,1400N,1700W,11:46,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.907696,-87.669847,1433,2,241500,830
+29,29,29,Bosworth/Blackhawk,Bosworth/West_Division,1400N,1500W,11:56,0,0,null,null,null,1,0,0,0,1,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.90701131,-87.66634598,1433,2,241600,830
+30,30,30,Greenview/LeMoyne,Bosworth/LeMoyne,1500N,1500W,12:10,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.90883139,-87.66517688,1433,2,241600,830
+31,31,31,Pierce/Hoyne,LeMoyne/Hoyne,1500N,2100W,12:56,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.9093008,-87.67986594,1424,1,241400,1289
+32,32,32,Hirsch/Maplewood,Potomac/Maplewood,1400N,2500W,14:56,0,1,null,null,null,0,0,0,1,1,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.90663047,-87.69079971,1423,1,241100,738
+33,33,33,Potomac/Maplewood,Potomac/Washtenaw,1300N,2600W,15:06,5,1,null,null,null,0,0,0,0,4,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.90481039,-87.69076871,1423,26,241100,738
+34,34,34,Thomas/Washtenaw,Cortez/Washtenaw,1100N,2700W,15:30,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.90113037,-87.69437787,1211,1,242600,740
+35,35,35,Campbell/Augusta,Western/Augusta,1000N,2500W,15:45,0,1,null,null,null,0,2,0,0,0,0,0,null,,7/14/2015,Anthony,TRUE,,,,,,41.89935015,-87.68938704,1212,26,242500,777
+36,36,36,Grand/Orleans,Grand/Illinois,500N,300W,9:56,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.89153399,-87.63705642,1831,42,81800,1602
+37,37,37,LaSalle/Kinzie,LaSalle/Carroll,300N,140W,10:10,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.890212,-87.632372,1831,42,81700,1602
+38,38,38,LaSalle/Hubbard,LaSalle/Kinzie,400N,140W,10:20,0,0,null,null,null,0,0,0,2,0,0,0,null,,7/16/2015,Stacy & Forest,FALSE,,,,,,41.89000176,-87.63254829,1831,42,81700,1602
+39,39,39,Hubbard/State,Hubbard/Wabash(lower),400N,20E,10:25,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.89008706,-87.62835811,1831,42,81600,1602
+40,40,40,Wabash/Hubbard,Wabash/Illinois,400N,20E,10:38,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.89009032,-87.62664964,1834,42,81500,1891
+41,41,41,Ohio/State,Ohio/Dearborn,500N,30W,10:52,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.89230987,-87.63988608,1831,42,81800,1602
+42,42,42,Huron/State,Huron/Dearborn,700N,30W,11:00,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.89487302,-87.62813759,1834,42,81500,1891
+43,43,43,Wabash/Huron,Wabash/Erie,600N,30E,11:05,0,0,null,null,null,0,0,0,2,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.89489073,-87.62677806,1834,42,81500,1891
+44,44,44,Erie/Rush,Erie/Wabash,600N,50E,11:07,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy & Forest,FALSE,,,,,,41.89414233,-87.62538754,1834,42,81500,1891
+45,45,45,Ontario/St._Clair,Ontario/Fairbanks,600N,200E,11:14,0,0,null,null,null,0,0,0,1,1,0,1,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.89336293,-87.6227172,1834,42,81401,1891
+46,46,46,McClurg/North_Water,McClurg/Illinois,400N,400E,11:28,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/16/2015,Stacy & Forest,FALSE,,,,,,41.893482,-87.622861,1834,42,81401,1891
+47,47,47,River_Drive/McClurg,River_Drive/New,400N,400E,11:30,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.88890351,-87.61775737,1834,42,81403,1891
+48,48,48,Streeter/Grand,Streeter/Illinois,500N,500E,11:58,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.89195026,-87.61158859,1834,42,81402,1891
+49,49,49,Ohio/LakeShore,Ohio/McClurg,600N,600E,12:04,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/16/2015,Stacy & Forest,TRUE,,,,,,41.8927208,-87.61453791,1834,42,81402,1891
+50,50,50,Pearson/MiesVanDerRohe,Pearson/Dewitt,800N,200E,13:46,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy ,TRUE,,,,,,41.89762306,-87.62181823,1833,2,81300,1360
+51,51,51,Walton/Michigan,Walton/Rush,900N,100E ,14:00,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/16/2015,Stacy ,TRUE,,,,,,41.90001441,-87.62415644,1833,2,81202,1360
+52,52,52,Bellevue/State,Bellevue/Lake_Shore,1000N,40E,14:09,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/16/2015,Stacy ,TRUE,,,,,,41.90157321,-87.62835901,1824,2,81100,1029
+53,53,53,Dearborn/Elm,Dearborn/Oak,1000N,20W,14:23,1,1,null,null,null,1,0,0,1,0,0,0,null,,7/16/2015,Stacy ,TRUE,,,,,,41.90315416,-87.62994881,1824,2,81100,1029
+54,54,54,Oak/Dearborn,Oak/Clark,900N,60W,14:31,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/16/2015,Stacy ,FALSE,,,,,,41.90058125,-87.62987796,1824,2,81100,1029
+55,55,55,Oak/LaSalle,Oak/Wells,1000N,100W,14:39,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/16/2015,Stacy ,FALSE,,,,,,41.90053253,-87.63283614,1832,2,81000,817
+56,56,56,Maple/LaSalle,Dead_End,1000N,100W,14:41,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy ,TRUE,,,,,,41.90183006,-87.63286714,1824,2,81000,1029
+57,57,57,Wells/Wendell,Dead_End,1000N,100W,15:00,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy ,TRUE,,,,,,41.90131194,-87.63436837,1824,2,81000,1029
+58,58,58,Division/State,Division/Dearborn,1200N,20W,15:19,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/16/2015,Stacy ,FALSE,,,,,,41.90395127,-87.6287,1824,2,80202,1029
+59,59,59,Astor/Division,Astor/Scott,1200N,30E,15:21,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/16/2015,Stacy ,TRUE,,,,,,41.90398227,-87.62686663,1824,43,81202,1029
+60,60,60,Astor/LakeShore,Dead_End,1300N,40E,15:26,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/16/2015,Stacy ,FALSE,,,,,,41.907874,-87.627207,1824,43,80100,1029
+61,61,61,Delaware/Clark,Delaware/LaSalle,800N,100W,16:19,0,1,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy ,TRUE,,,,,,41.89928372,-87.63130834,1832,2,81000,817
+62,62,62,Chestunut/LaSalle,Chestnut/Clark,800N,100W,16:25,0,0,null,null,null,0,0,0,0,1,0,0,null,,7/16/2015,Stacy ,FALSE,,,,,,41.89796405,-87.63275643,1832,2,81000,817
+63,63,63,Chestnut/Clark,Chestnut/Dearborn,800N ,60W,16:29,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/16/2015,Stacy ,TRUE,,,,,,41.89798177,-87.63127734,1832,2,81000,817
+64,64,64,Chestnut/Dearborn,Chestnut/State,800N,20W,16:33,3,0,null,null,null,0,0,0,0,0,0,0,null,,7/16/2015,Stacy ,FALSE,,,,,,41.89799062,-87.62978939,1832,2,81100,817
+65,65,65,Spaulding/51st,Dead_End,5000S,3000W,10:20,0,0,null,null,null,0,1,0,0,1,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.80078241,-87.70618846,822,14,630300,1135
+66,66,66,Homan/51st,Homan/52nd,5100S,3400W,10:39,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.8007337,-87.70864623,822,14,630300,1135
+67,67,67,52nd/Homan,52/Christina,5200S,3300W,10:52,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79891362,-87.70859752,822,14,630300,1135
+68,68,68,52nd/Christina,52nd/Spaulding,5100S,3300W,10:56,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.79894019,-87.70734871,822,14,630300,1135
+69,69,69,Spaulding/52nd,Spaulding/53rd,5200S,3200W,11:01,0,0,null,null,null,0,0,0,0,0,0,1,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79898004,-87.70613975,822,14,630300,1135
+70,70,70,53rd/Spaulding,53rd/Sawyer,5200S,3200W,11:09,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79713339,-87.70610875,822,14,630300,1135
+71,71,71,53rd/Sawyer,53rd/Kedzie,5200S,3200W,11:15,1,0,null,null,null,0,0,0,0,0,0,1,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79714225,-87.70487765,822,14,630300,1135
+72,72,72,52nd/Kedzie,52nd/Troy,5200S,3100W,11:18,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79900219,-87.70370855,923,14,630400,826
+73,73,73,52nd/Troy,52nd/Albany,5200S,3100W,11:20,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.79901104,-87.70249959,923,14,630400,826
+74,74,74,52nd/Albany,52nd/Whipple,5200S,3000W,11:30,0,0,null,null,null,0,0,0,0,0,0,1,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79903319,-87.70126849,923,14,630400,826
+75,75,75,52nd/Whipple,52nd/Sacramento,5200S,3000W,11:36,1,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.7990509,-87.70005953,923,14,630400,826
+76,76,76,52nd/Sacramento,52nd/Richmond,5200S,2900W,11:40,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79907304,-87.69882843,923,14,630400,826
+77,77,77,52nd/Richmond,52nd/Francisco,5200S,2900W,11:45,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79909076,-87.69760619,923,14,630400,826
+78,78,78,52nd/Francisco,52nd/Mozart,5200S,2800W,11:46,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79912175,-87.69638837,923,14,630400,826
+79,79,79,Mozart/52nd,Mozart/53rd,5200S,2800W,11:49,2,2,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.7991439,-87.69516613,923,14,630400,826
+80,80,80,Mozart/53rd,Mozart/54th_St,5300S,2800W,11:57,3,0,null,null,null,0,0,0,0,0,0,1,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79732382,-87.6950997,923,14,630400,826
+81,81,81,54th_St/Mozart,54th_St/Francisco,5300S,2800W,12:03,1,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79549045,-87.69504656,923,14,630400,826
+82,82,82,54th_St/Francisco,54th_St/Richmond,5300S,2900W,12:12,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.79547274,-87.6962688,923,14,630400,826
+83,83,83,54th_St/Richmond,54th_St/Sacramento,5300S,2900W,12:26,1,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.7954506,-87.69748662,923,14,630400,826
+84,84,84,Sacramento/54th_St,Sacramento/55th,5400S,3000W,12:31,0,2,null,null,null,0,0,0,1,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+85,85,85,Sacramento/55th,Sacramento/56th,5500S,3000W,12:34,1,0,null,null,null,0,1,0,1,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+86,86,86,56th/Sacramento,56th/Whipple,5500S,3000W,12:42,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79179272,-87.69860701,824,16,630800,1340
+87,87,87,56th/Whipple,56th/Albany,5500S,3000W,12:46,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79176172,-87.69984697,824,14,630800,1340
+88,88,88,Albany/56th,Albany/57th,5600S,3100W,12:49,0,1,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.79174401,-87.70104707,824,14,630800,1340
+89,89,89,57th/Albany,57th/Troy,5600S,3100W,12:55,0,0,null,null,null,0,0,0,0,0,0,1,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+90,90,90,57th/Troy,57th/Kedzie,5600S,3100W,13:05,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.78991064,-87.70222946,824,14,630800,1340
+91,91,91,57th/Kedzie,57th/Sawyer,5600S,3200W,13:55,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78989293,-87.70344727,824,14,630800,1340
+92,92,92,Sawyer/57th,Sawyer/56th,5600S,3200W,13:58,1,0,null,null,null,1,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.78987079,-87.70464737,822,14,630900,1135
+93,93,93,56th/Sawyer,56th/Christina,5500S,3300W,14:07,2,0,null,null,null,0,1,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79168201,-87.70470937,822,14,630900,1135
+94,94,94,56th/Christina,56th/Homan,5500S,3300W,14:11,1,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.7916333,-87.70716714,822,14,630900,1135
+95,95,95,Homan/56th,Homan/57th,5500S,3300W,14:15,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79162001,-87.70838939,822,14,630900,1135
+96,96,96,Homan/57th,Homan/58th,5600S,3400W,14:22,1,0,null,null,null,0,1,0,1,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.78980436,-87.70832739,822,23,630900,1135
+97,97,97,58th/Homan,58th/Trumbull,5800S,3400W,14:27,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78798428,-87.70827867,822,23,630900,1135
+98,98,98,58th/Trumbull,58th/StLouis,5800S,3400W,14:31,1,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78796214,-87.70950977,822,23,630900,1135
+99,99,99,58th/St._Louis,58th/CentralPark,5800S,3500W,14:34,1,1,null,null,null,0,1,1,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78793114,-87.71073645,822,23,630900,1135
+100,100,100,58th/Central_Park,58th/Lawndale,5800S,3600W,14:41,0,0,null,null,null,0,0,0,0,1,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78791343,-87.71282666,822,23,630900,1135
+101,101,101,Lawndale/58th,Lawndale/57_Pl,5700S,3600W,14:44,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78788243,-87.71562985,822,23,620400,1135
+102,102,102,Lawndale/57th_Pl,Lawndale/57th,5700S,3600W,14:47,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.7887814,-87.7156697,822,23,620400,1135
+103,103,103,Lawndale/57th,Lawndale/56th_Pl,5600S,3600W,14:49,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78968037,-87.71568742,822,23,620400,1135
+104,104,104,Lawndale/56th_Pl,Lawndale/56th,5600S,3600W,14:52,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.79059262,-87.71572727,822,23,620400,1135
+105,105,105,56th/Lawndale,Dead_End,5600S,3600W,14:54,3,2,null,null,null,0,1,0,3,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.79151373,-87.71574942,822,23,620400,1135
+106,106,106,58th/Springfield,58th/Pulaski,5800S,3900W,15:20,0,0,null,null,null,0,0,0,0,1,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.78780272,-87.72054982,822,23,620400,1135
+107,107,107,58th/Pulaski,58th/Karkov,5800S,4000W,15:24,2,2,null,null,null,0,1,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78773186,-87.72300759,822,13,620400,1135
+108,108,108,Karkov/58th,Karkov/57th_Pl,5700S,4100W,15:29,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+109,109,109,Karkov/57th_Pl,Karkov/57th,5700S,4100W,15:31,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+110,110,110,57th_St/Karkov,57th_St/Keeler,5700S,4100W,15:33,1,1,null,null,null,0,2,0,1,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+111,111,111,Keeler/57th,Keeler/58th,5700S,4200W,15:39,2,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78952094,-87.72792757,813,13,620300,1292
+112,112,112,58th/Keeler,58th/Tripp,5800S,4200W,15:43,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.78769201,-87.72787885,813,13,620300,1292
+113,113,113,Tripp/58th,Tripp/59th,5800S,4200W,15:45,3,1,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78768315,-87.72911881,813,13,620300,1292
+114,114,114,Tripp/59th,Tripp/60th,5900S,4200W,15:50,0,0,null,null,null,0,1,0,1,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78586307,-87.72905681,813,13,650200,1292
+115,115,115,60th/Tripp,60th/Keeler,6000S,4200W,3:58 PM,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.78405185,-87.7290081,813,13,650200,1292
+116,116,116,Keeler/60th,Keeler/61st,6000S,4200W,16:00,0,0,null,null,null,0,0,1,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.7840607,-87.727777,813,23,650200,1292
+117,117,117,Keeler/63rd,Keeler/64th,6300S,4200W,16:12,2,1,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.77862261,-87.72762643,813,23,650200,1292
+118,118,118,Kimball/64th_Pl,Kimball/65th,6400S,4500W,16:27,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.91005363,-87.71187898,1422,26,230900,947
+119,119,119,65th_St/Kimball,Dead_End,6500S,4500W,16:29,0,0,null,null,null,0,1,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+120,120,120,Kimball/65th,Kimball/65th_Pl,6500S,4500W,16:34,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,FALSE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+121,121,121,Kimball/65th_Pl,Kimball/66th,6500S,4500W,16:36,0,0,null,null,null,0,0,1,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+122,122,122,68th/Kenneth,68th/Kostner,6800S,4400W,16:45,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.76942035,-87.73349852,833,13,650500,1372
+123,123,123,Kolin/68th,Kolin/69th,6800S,4300W,16:48,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/15/2015,Danica & Alison,TRUE,,,,,,41.76944249,-87.7310496,833,13,650500,1372
+124,124,124,Taylor/Miller,Miller/Cabrini,900S,1000W,10:30,0,0,null,null,null,2,2,0,2,0,0,0,null,,7/20/2015,Stacy and Denise,FALSE,,,,,,41.86949375,-87.65220604,1232,25,833300,994
+125,125,125,Polk/Miller,Dead_End,700S,1000W,10:45,0,0,null,null,null,1,1,1,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.87186295,-87.65228575,1232,11,833300,994
+126,126,126,Polk/May,Dead_End,800S,1100W,10:59,0,0,null,null,null,2,2,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,FALSE,,,,,,41.87181424,-87.65534579,1232,25,833300,994
+127,127,127,Polk/Racine,Racine_Ave,800S,1200W,11:03,0,0,null,null,null,1,1,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.87177439,-87.65679831,1232,25,833300,994
+128,128,128,Taylor/Racine,Taylor/Lytle,1000S,1200W,11:09,1,1,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.86941404,-87.65673631,1232,25,833300,994
+129,129,129,Taylor/May,Dead_End,1000S,1100W,11:22,0,0,null,null,null,0,0,0,1,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.86945389,-87.65523951,1232,25,833300,994
+130,130,130,Taylor/Lytle,Lytle/Greenshaw,1100S,1200W,11:32,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.86940075,-87.65828626,1231,28,283200,696
+131,131,131,Throop/Fillmore,Fillmore/Loomis,1000S,1300W,11:43,0,0,null,null,null,1,1,1,0,0,0,0,null,,7/20/2015,Stacy and Denise,FALSE,,,,,,41.8685815,-87.65915866,1231,28,283200,696
+132,132,132,Roosevelt/Loomis,Loomis/Washburne,1200S,1400W,11:50,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.867179,-87.660796,1231,28,283200,696
+133,133,133,Washburne/Loomis,Washburne/Throop,1200S,1300W,11:59,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,FALSE,,,,,,41.86608387,-87.66150572,1233,25,842900,1006
+134,134,134,Ada/Cabrini,Ada/Arthington,900S,800W,14:00,1,1,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.87125183,-87.66012848,1231,28,283200,696
+135,135,135,Laflin/Taylor,Laflin_St.,960S,1400W,14:17,3,3,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.86932104,-87.66408749,1231,28,283100,696
+136,136,136,Laflin/Polk,Laflin/Lexington,750S,1400W,14:24,4,4,null,null,null,0,0,0,1,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.87166368,-87.6641672,1231,28,283100,696
+137,137,137,Laflin/Flournoy,Flournoy/Loomis,620S,1450W,14:30,4,4,null,null,null,0,0,0,2,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.87289035,-87.66418934,1231,28,832900,696
+138,138,138,Lexington/Loomis,Loomis_Ave,730S,1400W,14:37,1,1,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,FALSE,,,,,,41.87253165,-87.66175814,1231,28,832900,696
+139,139,139,Polk/Loomis,Dead_End,800S,1300W,14:40,2,2,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,FALSE,,,,,,41.87171,-87.662024,1231,28,283100,696
+140,140,140,Throop/Van_Buren,Throop/Gladys,370S,1200W,14:58,1,1,null,null,null,0,0,0,1,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.87647294,-87.65939779,1231,28,832900,696
+141,141,141,Jackson/Laflin,Laflin/Adam,230S,1500W,15:10,1,1,null,null,null,0,0,0,1,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.8776819,-87.66430891,1231,27,833100,696
+142,142,142,Laflin/Monroe,Monroe_Ave,25S,1400W,15:25,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.88021052,-87.66435762,1224,27,833100,792
+143,143,143,Aberdeen/Rundell,Aberdeen/Arcade,16S,1100W,15:23,1,1,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.88118035,-87.65469924,1232,25,833100,994
+144,144,144,Quincy/Aberdeen,Aberdeen/Jackson,215S,1100W,15:32,1,1,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.878626,-87.65415,1232,25,833100,994
+145,145,145,Madison/Carpenter,Carpenter/Washington,16S,1000W,15:45,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.88165419,-87.65319801,1232,25,833100,994
+146,146,146,Carpenter/Washington,Washington/Sangamon,101N,1000W,15:46,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.88304028,-87.65320686,1224,25,833000,792
+147,147,147,Morgan/Monroe,Morgan/Adam,100S,1000W,15:54,1,1,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.88041423,-87.65196691,1232,25,833100,994
+148,148,148,Madison/Sangamon,Sangamon/Monroe,1S,900W,16:08,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,TRUE,,,,,,41.88171176,-87.65084652,1232,25,833100,994
+149,149,149,Adam/Peoria,Peoria/Jackson,200S,900W,16:15,1,1,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,FALSE,,,,,,41.87918313,-87.64958885,1232,27,833100,994
+150,150,150,Peoria/Jackson,Peoria/Van_Buren,300S,900W,16:20,1,1,null,null,null,0,0,0,0,0,0,0,null,,7/20/2015,Stacy and Denise,FALSE,,,,,,41.87792103,-87.64955785,1232,25,833100,994
+151,151,151,Fargo/Hoyne,Fargo/Seeley,7300N,2100W,15:04,0,0,null,null,null,2,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.01648181,-87.68298798,2424,49,10201,813
+152,152,152,Fargo/Seeley,Fargo/Damen,7400N,2100W,15:05,0,0,null,null,null,3,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.0164641,-87.68165945,2424,49,10201,813
+153,153,153,Damen/Fargo,Damen/Jarvis,7300N,2000W,15:07,0,0,null,null,null,2,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.016675,-87.680748,2424,49,10201,813
+154,154,154,Damen/Fargo,Damen/Birchwood,7400N,2000W,15:13,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.0164331,-87.68042835,2424,49,10201,813
+155,155,155,Winchester/Birchwood,Winchester/Howard,7600N,1900W,15:16,2,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.01791219,-87.67903783,2424,49,10201,813
+156,156,156,Birchwood/Western,Birchwood/Claremont,7400N,2400W,14:18,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.01741178,-87.69017973,2411,50,20100,884
+157,157,157,Jarvis/Claremont,Jarvis/Western,7300N,2400W,14:20,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.0156537,-87.68884677,2411,50,20100,884
+158,158,158,Jarvis/Oakley,Dead_End,7350N,2300W,14:27,0,0,null,null,null,2,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.0156227,-87.68749611,2411,49,20100,884
+159,159,159,Hamilton/Chase,Dead_End,7300N,2100W,14:33,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.01405061,-87.68496748,2411,49,20100,884
+160,160,160,Oakley/Birchwood,Oakley/Howard,7600N,2300W,14:40,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.017288,-87.687743,2411,50,20100,884
+161,161,161,Bell/Howard,Dead_End,7600N,2100W,14:42,0,1,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.015608,-87.686378,2411,49,20100,884
+162,162,162,Ridge/Birchwood,Ridge/Fargo,7400N,2100W,14:49,0,0,null,null,null,1,0,1,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.0179609,-87.68444935,2424,49,10201,813
+163,163,163,Ridge/Fargo,Ridge/Jarvis,7500N,2100W,14:54,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.01649067,-87.68427665,2424,49,20100,813
+164,164,164,Oakley/Jarvis,Oakley/Birchwood,7400N,2300W,14:58,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,42.015474,-87.68781,2411,50,20100,884
+165,165,165,Winchester/Ainslie,Winchester/Argyle,5000N,1900W,9:32,0,0,null,null,null,0,1,0,2,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.9706034,-87.67772702,2032,40,40402,327
+166,166,166,Argyle/Winchester,Argyle/Wolcott,5000N,1800W,9:35,0,0,null,null,null,0,1,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.97243234,-87.67775801,2032,40,40402,327
+167,167,167,Wolcott/Winona,Wolcott/Foster,5200N,1800W,9:40,0,0,null,null,null,0,0,0,2,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.97474397,-87.67633649,2032,40,40402,327
+168,168,168,Carmen/Ashland,Carmen/Paulina,5100N,1600W,9:51,0,0,null,null,null,1,2,0,2,2,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.97433213,-87.66958758,2032,40,31000,327
+169,169,169,Winnemac/Ravenswood,Winnemac/Ravenswood,5000N,1700W,10:00,0,0,null,null,null,0,2,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.9733623,-87.67484854,2032,40,40402,327
+170,170,170,Winnemac/Hermitage,Winnemac/Paulina,5300N,1650W,10:04,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.9733933,-87.67271847,2032,40,31000,327
+171,171,171,Hermatige/Ainslie,Hermatige/Lawrence,4900N,1700W,10:12,0,1,null,null,null,1,0,1,0,0,0,2,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.9718035,-87.67266976,2032,47,31000,327
+172,172,172,Magnolia/Argyle,Magnolia/Gunnison,4800N,1200W,10:30,0,0,null,null,null,2,1,0,0,1,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.97266261,-87.66107616,2033,47,31100,358
+173,173,173,Ainslie/Magnolia,Ainslie/Broadway,4800N,1200W,10:32,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.97143151,-87.66107616,2033,46,31100,358
+174,174,174,Glenwood/Argyle,Dead_End,1300W,4900N,10:38,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.97260062,-87.66466761,2033,47,31100,358
+175,175,175,Winnemac/Glenwood,Winnemac/Glenwood,5000N,1400W,10:42,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.9733623,-87.6646499,2033,47,31100,358
+176,176,176,Winona/Lakewood,Winona/Broadway,5100N,1200W,10:48,0,0,null,null,null,1,0,0,4,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.975178,-87.659763,2033,48,31200,358
+177,177,177,Winona/Broadway,Winona/Kenmore,5200N,1200W,10:54,1,1,null,null,null,0,0,0,0,0,0,1,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.97522224,-87.65983621,2033,48,31200,358
+178,178,178,Glenwood/Foster,Glenwood/Berwyn,5200N,1400W,11:06,0,2,null,null,null,2,0,0,1,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.97627177,-87.66467647,2013,48,30800,447
+179,179,179,Olive/Glenwood,Olive/Clark,5200N,1200W,11:18,6,1,null,null,null,0,1,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98452192,-87.6649156,2013,48,30500,447
+180,180,180,Olive/Ashland,Olive/Hermatige,5300N,1600W,11:24,2,0,null,null,null,0,1,1,1,1,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98432264,-87.66984886,2012,40,30400,428
+181,181,181,Rosehill/Paulina,Rosehill/Ashland,5800N,1600W,11:30,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.987009,-87.671527,2012,40,30400,428
+182,182,182,Rosehill/Paulina,Rosehill/Ashland,5800N,1600W,11:38,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.987009,-87.671527,2012,40,30400,428
+183,183,183,Glenwood/Norwood,Glenwood/Elmdale,6100N,1400W,11:53,0,1,null,null,null,2,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.99183324,-87.66516802,2433,48,30200,749
+184,184,184,Thorndale/Lakewood,Thorndale/Magnolia,5900N,1300W,12:01,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98992016,-87.66261725,2013,48,30500,447
+185,185,185,Thorndale/Broadway,Thorndale/Winthrop,5900N,1100W,13:03,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98993344,-87.66026576,2013,48,30500,447
+186,186,186,Ardmore/Kenmore,Ardmore/Sheridan,5800N,1000W,13:09,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98733396,-87.65666989,2022,48,30601,334
+187,187,187,Winthrop/Hollywood,Winthrop/BrynMawr,5600N,1200W,13:16,0,1,null,null,null,4,3,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98548288,-87.65796741,2022,48,30603,334
+188,188,188,BrynMawr/Sheridan,BrynMawr/LakeShore,5400N,1000W,13:20,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98383108,-87.6551598,2022,48,30604,334
+189,189,189,Catalpa/Kenmore,Catalpa/Sheidan,5500N,1000W,13:28,0,0,null,null,null,1,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98186044,-87.65652818,2023,48,30701,544
+190,190,190,Balmoral/Kenmore,Balmoral/Winthrop,5300N,1100W,13:30,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98002264,-87.65646618,2023,48,30703,544
+191,191,191,Balmoral/Winthrop,Balmoral/Broadway,5300N,1000W,13:34,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Alison/Ben,TRUE,,,,,,41.98001379,-87.65779913,2023,48,30703,544
+192,192,192,Lawndale/85th_Pl,Lawndale/85th,8500S,3700W,11:27,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/21/2015,Abisola/Anthony,TRUE,,,,,,41.73772173,-87.71418618,834,18,700402,1267
+193,193,193,84th/Hamlin,84th/Springfield,8400S,3800W,11:44,0,4,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74044078,-87.71674581,834,18,700402,1267
+194,194,194,Karlov/86th,Kedvale/86th,8600S,4100W,12:02,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.73663234,-87.72389771,834,18,700302,1267
+195,195,195,87th/Tripp,86th/Tripp,8700S,4200W,12:09,2,2,null,null,null,0,3,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.73475026,-87.72749801,834,0,822000,1267
+196,196,196,84th/Kolin,83rd/Kolin,8400S,4300W,12:20,1,1,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74020165,-87.73009749,834,18,700302,1267
+197,197,197,84th/Kildare,83rd/Kildare,8400S,4300W,12:25,2,2,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74023265,-87.72887968,834,18,700302,1267
+198,198,198,83rd_Pl/Scottsdale,83rd_Pl/Kolmar,8300S,4600W,12:28,1,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74122018,-87.73474733,834,18,700302,1267
+199,199,199,83rd_Pl/Kolmar,84th_Pl/Komar,8400S,4600W,12:41,1,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74130432,-87.73571716,834,18,700302,1267
+200,200,200,84th_Pl/Kenton,83rd_Pl/Kenton,8400S,4600W,12:47,1,0,null,null,null,0,1,0,2,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.73872256,-87.73707668,834,18,700302,1267
+201,201,201,Kilpatrick/83rd_Pl,Kilpatrick/83rd,8300S,4700W,12:56,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74126004,-87.73898976,834,18,700302,1267
+202,202,202,Kilpatrick/82nd_Pl,Kilpatrick/82nd,8200S,4700W,13:00,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74274356,-87.73841849,834,18,700301,1267
+203,203,203,Kilpatrick/Scottsdale,Knox/Scottsdale,8100S,4600W,13:04,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74664057,-87.73822807,834,18,700301,1267
+204,204,204,Kilpatrick/Scottsdale,Kilpatrick/79th,7900S,4600W,13:12,2,1,null,null,null,0,1,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74664057,-87.73822807,834,18,700301,1267
+205,205,205,79th/Kilbourn,77th_Pl/Kilbourn,7800S,4500W,14:53,3,3,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+206,206,206,Kenneth/77th_Pl,77th_Pl/Kostner,7700S,4400W,15:02,2,3,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.75252151,-87.73297596,834,18,700200,1267
+207,207,207,77th_Pl/Kostner,79th/Kostner,7800S,4400W,15:05,6,2,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.75253036,-87.73173601,834,18,700200,1267
+208,208,208,80th/79th_Pl,81st/79th_Pl,8000S,4400W,15:46,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+209,209,209,81st/Kildare,82nd_Pl/Kildare,8100S,4300W,16:00,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74560432,-87.72832612,834,18,700301,1267
+210,210,210,82nd_Pl/Tripp,Crestline/Tripp,8200S,4200W,16:06,0,0,null,null,null,0,1,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74277013,-87.7294598,834,18,700301,1267
+211,211,211,Crestline/Tripp,Crestline/82nd,8100S,4100W,16:16,2,2,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.7445105,-87.72701974,834,18,700301,1267
+212,212,212,82nd/Crestline,82ndPl/82nd,8200S,4100W,16:28,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+213,213,213,82nd_Pl/Kedvale,82nd_Pl/81st_Pl,8100S,4000W,16:35,3,2,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.74285427,-87.72533694,834,18,700301,1267
+214,214,214,80th_Pl/79th_Pl,Kedvale/80th_Pl,8000S,4200W,16:57,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+215,215,215,78th/Hamlin,78th/Ridgeway,7800S,3800W,17:17,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.75142326,-87.71826919,833,18,700200,1372
+216,216,216,78th/Ridgeway,78th/Reilly,7800S,3700W,17:22,1,2,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.75133026,-87.71619669,833,18,700200,1372
+217,217,217,Keeler/77th_Pl,78th/Keeler,7800S,4200W,17:46,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/22/2015,Abisola/Anthony,TRUE,,,,,,41.75266322,-87.72613849,834,18,700200,1267
+218,218,218,23rd/Christina,Homan/Christina,2300S,3300W,10:16,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84991128,-87.7088278,1024,22,300800,1014
+219,219,219,25th/Homan,26th/Homan,2500S,3300W,10:29,0,0,null,null,null,0,0,0,0,1,0,0,null,,7/24/2015,Gustavo/Danica,FALSE,,,,,,41.84626227,-87.70994819,1024,12,300800,1014
+220,220,220,26th/Homan,27th/Homan,2600S,3300W,10:34,0,0,null,null,null,1,0,0,1,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84447319,-87.70989948,1024,12,300800,1014
+221,221,221,30th/Trumbull,28th/Trumbull,2800S,3400W,11:31,0,0,null,null,null,0,1,0,1,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.83896423,-87.71097558,1032,22,301600,577
+222,222,222,St._Louis/28th,Drake/28th,2800S,3500W,11:38,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84078431,-87.71222882,1032,22,301600,577
+223,223,223,MIllard/27th,Lawndale/27th,2700S,3600W,11:54,0,0,null,null,null,0,0,0,0,0,0,1,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84253354,-87.71593984,1032,22,301701,577
+224,224,224,Avers/27th,Springfield/27th,2700S,3800W,12:01,0,0,null,null,null,0,0,0,0,0,0,1,null,,7/24/2015,Gustavo/Danica,FALSE,,,,,,41.8424804,-87.72081996,1031,22,301701,1149
+225,225,225,Springfield/27th,Harding/27th,2700S,3900W,12:04,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/24/2015,Gustavo/Danica,FALSE,,,,,,41.84244054,-87.72202891,1031,22,301701,1149
+226,226,226,27th/Karlov,26/Karlov,2600S,4000W,12:10,0,1,null,null,null,0,0,0,1,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84237412,-87.72692674,1031,22,301803,1149
+227,227,227,26th/Kildare,25th_Pl/Kildare,2500S,4300W,12:18,0,0,null,null,null,0,0,0,0,1,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.8441632,-87.731829,1013,22,301801,1003
+228,228,228,Kildare/25th,Keeler/25th,2500S,4200W,12:27,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84599213,-87.73108946,1013,22,301801,1003
+229,229,229,Keeler/25th,Pulaski/25th,2500S,4100W,12:32,0,0,null,null,null,0,0,0,2,1,0,0,null,,7/24/2015,Gustavo/Danica,FALSE,,,,,,41.84602313,-87.72947751,1013,22,301802,1003
+230,230,230,Pulaski/25th,Springfield/25th,2500S,3900W,12:53,0,0,null,null,null,0,0,0,1,1,1,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+231,231,231,25th/Harding,24th/Harding,2400S,3900W,12:54,0,0,null,null,null,0,1,0,1,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84609399,-87.72337958,1013,22,300500,1003
+232,232,232,Avers/25th,Hamlin/25th,2500S,3800W,13:03,1,0,null,null,null,1,0,0,0,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84613384,-87.72092624,1013,22,300500,1003
+233,233,233,24th/Ridgeway,23rd/Ridgeway,2300S,3700W,13:09,0,0,null,null,null,0,0,0,2,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84799378,-87.71855703,1013,22,300600,1003
+234,234,234,23rd/Hamlin,24th/Hamlin,2300S,3800W,13:13,1,1,null,null,null,0,1,0,1,1,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.84966329,-87.71983685,1013,22,300500,1003
+235,235,235,Cermak/Avers,Dead_End,2200S,3800W,13:25,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.85159408,-87.72106795,1013,22,292400,1003
+236,236,236,Avers/18th,Hamlin/18th,1800S,3800W,14:57,0,0,null,null,null,0,0,0,0,0,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.85709418,-87.72114766,1014,24,292400,1077
+237,237,237,St_Louis/18th,Trumbull/18th,1800S,3400W,15:13,0,0,null,null,null,0,0,0,0,3,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+238,238,238,16th/Christina,15th/Christina,1500S,3300W,15:22,0,0,null,null,null,0,0,0,0,5,0,3,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+239,239,239,Homan/15th,Trumbull/15th,1500S,3400W,15:27,0,0,null,null,null,0,0,0,0,2,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.86086276,-87.7103556,1021,24,841500,1310
+240,240,240,15th/Drake,Douglas/Drake,1400S,3500W,15:44,0,0,null,null,null,0,0,0,1,11,0,2,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+241,241,241,Douglas/Ridgeway,15th/Ridgeway,1400S,3700W,16:07,0,0,null,null,null,0,0,1,0,1,0,1,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.86213372,-87.71894673,1011,24,838700,1684
+242,242,242,Komensky/14th,Karlov/14th,1400S,4000W,16:36,0,0,null,null,null,0,0,0,0,2,0,3,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.86250128,-87.72625805,1011,24,290900,1684
+243,243,243,Kedvale/15th,Keeler/15th,1500S,4100W,16:45,0,0,null,null,null,0,0,0,2,3,0,2,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.86063249,-87.72867597,1012,24,290900,920
+244,244,244,Keeler/14th,Tripp/14th,1400S,4200W,16:50,0,0,null,null,null,0,0,0,0,2,0,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.86244371,-87.72994693,1011,24,290900,1684
+245,245,245,Komensky/19th,Pulaski/19th,1900S,4000W,17:15,0,0,null,null,null,0,0,0,0,0,2,0,null,,7/24/2015,Gustavo/Danica,TRUE,,,,,,41.85501282,-87.72605877,1012,24,292500,920
+246,246,246,Moody/53rd,Moody/52nd,5300S,6130W,9:45,2,0,null,0,7,0,3,0,1,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79616357,-87.77579877,811,23,560800,762
+247,247,247,Moody/52nd,Meade/52nd,5100S,6100W,9:51,0,0,null,0,0,0,0,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79797037,-87.77585634,811,14,560800,762
+248,248,248,Meade/52nd,Meade/51st ,5150S,6100W,9:53,2,0,null,0,4,0,0,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79800136,-87.77460752,811,14,560800,762
+249,249,249,Mason/51st,Mason/52nd,5100S,5960W,10:03,0,0,null,2,5,0,2,0,1,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79991001,-87.77102936,811,14,820800,762
+250,250,250,Mason/52nd,Mayfield/52nd,5200S,5930W,10:05,0,0,null,0,1,1,0,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,FALSE,,,,,,41.79809436,-87.77097622,811,14,560800,762
+251,251,251,Mayfield/52nd,Mayfield/51st,5200S,5900W,10:13,0,0,null,3,9,0,1,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79810322,-87.76974955,811,14,560800,762
+252,252,252,Monitor/51st,Monitor/52nd,5100S,5880W,10:20,0,0,null,2,3,0,1,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79796315,-87.76896572,811,14,560800,762
+253,253,253,Monitor/52nd,Monitor/53rd,5200S,5830W,10:26,0,0,null,3,5,0,1,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79812093,-87.76854945,811,14,560800,762
+254,254,254,Menard/53rd,Menard/52nd,5300S,5800W,10:32,1,0,null,1,5,0,0,0,0,0,0,1,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79634071,-87.76727849,811,14,560800,762
+255,255,255,,,,,,,,null,,,,,,,,,,null,Menard/53rd to Massasoit/52nd (photo),7/27/2015,Radha/Gustavo,,,,,,,41.79793051,-87.7782964,811,14,560800,762
+256,256,256,,,,,,,,null,,,,,,,,,,null,52nd/Menard to Monitor/52nd (photo),7/27/2015,Radha/Gustavo,,,,,,,41.79971073,-87.77956735,811,14,560800,762
+257,257,257,,,,,,,,null,,,,,,,,,,null,52nd/Monitor to Mayfield/52nd (photo),7/27/2015,Radha/Gustavo,,,,,,,41.79790394,-87.77950978,811,14,560800,762
+258,258,258,,,,,,,,null,,,,,,,,,,null,Mason/52nd to Austin/52nd (photo),7/27/2015,Radha/Gustavo,,,,,,,41.79605286,-87.7818967,811,14,560800,762
+259,259,259,Merrimac/52nd,Merrimac/51st,5200S,6230W,10:56,1,0,null,1,1,0,0,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.7978508,-87.78193656,811,14,560800,762
+260,260,260,,,,,,,,null,,,,,,,,,,null,Merrimac/51st to Mobile/51st (photo),,,,,,,,,41.79964431,-87.78444747,811,14,560900,762
+261,261,261,Mobile/51st,Mobile/52nd,5100S,6300W,11:01,1,1,null,1,1,0,0,0,1,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79782423,-87.7843899,811,14,560900,762
+262,262,262,Mobile/52nd,Mobile/53rd,5200S,6300W,11:05,0,0,null,2,1,0,1,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79598201,-87.785559,811,23,560900,762
+263,263,263,Narragansett/53rd,Narragansett/52nd,5300S,6400W,11:14,1,0,null,4,8,0,1,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79781094,-87.78561657,811,14,560900,762
+264,264,264,Narragansett/52nd,Narragansett/51st,5200S,6400W,11:17,0,0,null,3,3,1,0,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,FALSE,,,,,,41.79958231,-87.78689639,811,14,560900,762
+265,265,265,Natchez/51st,Natchez/52nd,5100S,6500W,11:27,0,0,null,1,0,0,1,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,FALSE,,,,,,41.79779323,-87.78683882,811,14,560900,762
+266,266,266,Natchez/52nd,Natchez/53rd,5200S,6500W,11:31,0,0,null,0,7,0,1,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79592001,-87.79164808,811,23,560900,762
+267,267,267,Neenah/53rd,Neenah/52nd,5300S,6530W,11:37,0,0,null,0,4,0,0,0,0,0,0,1,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.79770023,-87.79289689,811,23,560900,762
+268,268,268,Neenah/52nd,Neenah/51st,5200S,6530W,11:41,0,0,null,1,5,0,1,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,FALSE,,,,,,41.80992267,-87.70644974,821,14,580400,932
+269,269,269,Nashville/51st,52nd/Nashville,5100S,6600W,11:45,1,0,null,2,5,0,0,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.81719413,-87.70431967,921,15,580502,912
+270,270,270,Nashville/52nd ,Nashville/53rd,5200S,6600W,11:50,0,0,null,1,2,0,0,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.82075015,-87.69336819,921,12,580600,912
+271,271,271,Oakpark/53rd,Oakpark/52nd,5300S,6800W,12:00,0,0,null,0,3,0,0,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.81857137,-87.68961732,921,12,580600,912
+272,272,272,Newcastle/52nd,Newcastle/51st,5200S,6830W,12:05,2,0,null,1,3,0,1,0,0,0,0,0,null,,7/27/2015,Radha/Gustavo,TRUE,,,,,,41.797828,-87.793211,811,23,560900,762
+273,273,273,,,,,,,,null,,,,,,,,,,null,,7/27/2015,Radha/Gustavo,,,,,,,41.82108228,-87.68846593,921,12,580700,912
+274,274,274,Spaulding/46th,Spaulding/45th,4600S,3300W,13:47,1,1,2,0,2,0,1,0,0,0,0,0,0,,7/27/2015,Radha/Denise,TRUE,,,,,,41.81205274,-87.68582659,922,15,580700,1051
+275,275,275,,,,,,,,null,,,,,,,,,,null,Kedzie/43rd to Sawyer/43rd (photo) (14:04pm),7/27/2015,Radha/Denise,,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+276,276,276,Kedzie/42nd,Albany/42nd,4200S,3140W,14:08,8,2,null,0,1,0,0,0,0,0,0,2,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.81194202,-87.69310691,922,15,580600,1051
+277,277,277,Montgomery/Archer,Montgomery/Rockwell,4000S,2800W,14:30,1,2,null,3,2,1,0,0,0,0,0,1,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.81186231,-87.69677807,922,15,842800,1051
+278,278,278,Montgomery/Rockwell,Brighton/Rockwell,4120S,2610W,14:37,0,1,null,0,1,0,1,0,0,0,0,1,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.81003338,-87.69793832,922,15,842800,1051
+279,279,279,Brighton/Rockwell,Rockwell/40th,4250S,2600W,14:39,0,0,null,3,3,0,0,0,0,0,0,1,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.81182246,-87.70041823,922,15,580502,1051
+280,280,280,Maplewood/40th,Maplewood/42nd,4000S,2530W,14:48,0,1,null,3,9,0,0,0,0,0,0,3,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.75237094,-87.65014683,612,17,710800,1684
+281,281,281,,,,,,,,null,,,,,,,,,,null,Campbell/42nd to Artesian/42nd (photo),7/27/2015,Radha/Denise,,,,,,,41.75047115,-87.65614733,612,17,710700,1684
+282,282,282,Artesian/45th,45th/Campbell ,4440S,2430W,15:22,0,0,null,2,1,0,1,0,0,0,0,1,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.75226023,-87.65699759,612,17,710700,1684
+283,283,283,Rockwell/46th,Western/46th,4600S,2600W,15:34,1,1,null,4,2,0,3,0,0,0,0,4,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.75405374,-87.6586671,612,17,710200,1684
+284,284,284,Fairfield/45th ,Fairfield/44th,4500S,2730W,15:58,0,0,null,1,1,0,0,0,0,1,0,1,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.75040029,-87.66180685,612,17,710300,1684
+285,285,285,Francisco/45th,Francisco/44th,4500S,2900W,16:20,3,0,null,0,3,0,0,0,0,0,0,0,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.75200338,-87.67678819,611,18,710400,1313
+286,286,286,Richmond/46th ,Richmond/45th,4600S,2930W,16:33,0,1,null,0,6,0,2,0,0,0,0,0,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.75410245,-87.67680591,611,18,710400,1313
+287,287,287,,,,,,,,null,,,,,,,,,,null,Richmond/45th to Whipple/45th (photo),7/27/2015,Radha/Denise,,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+288,288,288,Whipple/45th,Whipple/44th,4500S,3020W,16:42,2,3,null,1,1,0,0,0,0,0,0,0,null,,7/27/2015,Radha/Denise,TRUE,,,,,,41.74547147,-87.68040621,835,18,700501,1412
+289,289,289,,,,,16:50,,,null,,,,,,,,,,null,Albany/45th to to Troy/45th (photo),7/27/2015,Radha/Denise,,,,,,,41.74477178,-87.67177965,614,17,711200,1051
+290,290,290,78th/Carpenter,78th/Aberdeen,7800S,1000W,9:41,1,0,11,0,0,0,0,0,0,0,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.74479392,-87.67055741,614,17,711200,1051
+291,291,291,79th/Throop,80th/Throop,7950S,1300W,9:47,3,0,0,0,6,1,0,0,0,2,0,2,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.7485005,-87.6670191,611,17,710500,1313
+292,292,292,Ada/78th,Ada/77th,7750S,1400W,9:59,2,2,1,0,3,1,0,0,0,5,0,3,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.74667157,-87.66577914,614,21,710500,1051
+293,293,293,Loomis/77th,Loomis/78th,7750S,1500W,10:12,1,1,0,0,6,2,1,0,0,0,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.74668042,-87.6645569,614,21,710500,1051
+294,294,294,Laflin/79th,Laflin/80th,7950S,1550W,10:20,5,3,1,0,6,2,0,0,1,0,0,1,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+295,295,295,Hamilton/78th,Hamilton/77th,7750S,2200W,10:30,3,3,0,0,18,0,0,0,0,0,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.74128218,-87.66156772,614,21,711100,1051
+296,296,296,77th/Hamilton,DeadEnd,7700S,2200W,10:57,1,2,0,0,5,0,0,0,0,0,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.73950196,-87.65706844,613,21,711100,1349
+297,297,297,Oakley/80th,Oakley/81stPl,8000S,2350W,11:01,0,2,0,0,0,0,0,0,0,0,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.73780144,-87.65095723,613,21,711000,1349
+298,298,298,81st/Oakley,81st/81st,8100S,2350W,11:17,2,1,0,0,6,0,0,0,0,0,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.7358308,-87.66061561,614,21,711100,1051
+299,299,299,82nd/Winchester,82nd/Wolcott,8200S,1800W,11:27,2,1,0,0,2,0,0,0,0,0,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.73401072,-87.66058904,2221,21,711400,822
+300,300,300,Wolcott/82nd,Wolcott/80th,8200S,1800W,12:16,0,2,0,0,9,0,1,1,1,1,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.73210207,-87.6653673,2221,21,711300,822
+301,301,301,Hermitage/80th,Hermitage/79th,7950S,1700W,12:20,3,1,0,0,4,1,0,0,0,0,0,1,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.73390001,-87.66908717,2221,21,711300,822
+302,302,302,81st/Paulina,81st/Hermitage,8100S,1700W,12:42,1,0,1,1,4,1,0,0,0,0,0,1,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.73752245,-87.66917574,614,21,711200,1051
+303,303,303,Marshfield/81st,Marshfield/82nd,8150S,1600W,12:46,2,1,0,1,4,2,1,0,1,0,0,1,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.73752245,-87.66917574,614,21,711200,1051
+304,304,304,Paulina/82nd,Paulina/83rd,8250S,1700W,12:59,6,6,0,1,7,0,0,0,0,0,0,1,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.73934253,-87.66922888,614,21,711200,1051
+305,305,305,Justine/84th,Justine/85th,8450S,1500W,13:59,0,0,0,0,5,0,0,0,0,1,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.73931154,-87.67165565,614,21,711200,1051
+306,306,306,85th/Ada,85th/Elizabeth,8500S,1400W,14:10,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/28/2015,Abisola/Ben,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+307,307,307,86/Aberdeen,86/May,8600S,1100W,14:21,0,0,0,0,2,0,0,0,0,0,0,0,0,,7/28/2015,Ben/Abisola,TRUE,,,,,,41.73192051,-87.67751888,2221,19,720100,822
+308,308,308,Laflin/87,Laflin/88,8800S,1500W,14:35,1,1,0,1,3,0,1,0,0,1,0,1,0,,7/28/2015,Ben/Abisola,TRUE,,,,,,41.90568279,-87.69447972,1423,26,242600,738
+309,309,309,88/Laflin,88/Justine,8800S,1500W,14:38,0,0,0,0,2,0,0,0,0,0,0,0,0,,7/28/2015,Ben/Abisola,TRUE,,,,,,41.91212171,-87.68847922,1434,1,240600,902
+310,310,310,89/Paulina,89/Hermitage,8900S,1700W,14:52,0,1,0,0,1,0,0,0,0,0,0,0,0,,7/28/2015,Ben/Abisola,TRUE,,,,,,41.91393293,-87.6934169,1421,1,240700,725
+311,311,311,88/Honore,88/Winchester,8800S,1800W,14:58,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/28/2015,Ben/Abisola,TRUE,,,,,,41.91378236,-87.70379711,1421,26,230100,725
+312,312,312,Honore/86,Honore/87,8500S,1800W,15:03,2,3,1,1,7,0,0,0,0,0,0,0,0,,7/28/2015,Ben/Abisola,TRUE,,,,,,41.91560244,-87.70385911,1421,1,222600,725
+313,313,313,86/Honore,86/Wolcott,8600S,1800W,15:06,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/28/2015,Ben/Abisola,TRUE,,,,,,41.91568215,-87.69590567,1421,1,832400,725
+314,314,314,Honore/85,Honore/86,8500S ,1800W ,15:10,0,0,0,1,5,0,0,0,0,0,0,0,0,Park on one side of street,7/28/2015,Ben/Abisola,TRUE,,,,,,41.91577072,-87.68735883,1434,32,222200,902
+315,315,315,Winchester/85,Winchester/86,8500S,1900W,15:15,0,0,0,0,14,0,0,0,0,0,0,0,0,,7/28/2015,Ben/Abisola,TRUE,,,,,,41.739557,-87.671907,614,21,711200,1051
+316,316,316,85/Hamilton,85/Hoyne,8500S,2100W,15:25,0,0,0,0,1,0,0,0,0,1,0,0,0,One side was vacant lot,7/28/2015,Ben/Abisola,TRUE,,,,,,41.9176218,-87.68497634,1432,32,221600,841
+317,317,317,Leavitt/89,Leavitt/90,8900S,2100W,16:25,0,0,0,0,3,0,0,0,0,0,0,0,0,,7/28/2015,Ben/Abisola,TRUE,,,,,,41.91790079,-87.68916562,1431,1,221400,514
+318,318,318,Evergreen/Washtenaw,Hirsch/Washtenaw,1400N,2700W,9:30,0,0,0,0,1,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92080141,-87.68925862,1431,1,221500,514
+319,319,319,Wabansia/Artesian,Bloomingdale/Artesian,1700N,2400W,9:49,0,1,0,4,7,0,1,0,2,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92325032,-87.69144626,1431,1,221500,514
+320,320,320,Talman/Bloomingdale,Washtenaw/Bloomingdale,1700N,2600W,10:01,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/29/2015,Anthony,TRUE,,,,,,41.92407401,-87.68936933,1431,1,221500,514
+321,321,321,Bloomingdale/Whipple,Cortland/Whipple,1800N,3000W,10:16,0,0,0,3,1,0,2,0,0,1,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92670006,-87.69013987,1431,32,830900,514
+322,322,322,Whipple/Cortland,Albany/Cortland,1900N,3000W,10:21,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92485341,-87.69374903,1431,1,220300,514
+323,323,323,Fairfield/Cortland,Washtenaw/Cortland,1900N,2700W,10:34,0,0,0,0,2,0,1,0,0,1,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92389244,-87.69558683,1431,1,221400,514
+324,324,324,Western/Winnebago,Moffat/Winnebago,1800N,2300W,10:57,0,0,0,0,0,0,0,0,0,1,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.915748,-87.687282,1434,32,222200,902
+325,325,325,Hoyne/Moffat,Damen/Moffat,1800N,2000W,11:16,0,0,0,1,7,0,1,0,1,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92328132,-87.69795603,1414,1,221300,540
+326,326,326,Armitage/Oakley,McLean/Oakley,2000N,2300W,11:34,0,0,0,0,1,0,1,0,1,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92470699,-87.70578724,1414,32,221200,540
+327,327,327,Milwaukee/Campbell,Charleston/Campbell,2000N,2500W,11:44,0,0,0,0,1,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92288276,-87.70750813,1413,32,221100,595
+328,328,328,Campbell/Shakespeare,Maplewood/Shakespeare,2100N,2500W,11:55,0,0,0,2,2,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.93062364,-87.73920675,2524,31,200200,739
+329,329,329,Belden/Maplewood,Medill/Maplewood,2300N,2500W,11:59,0,0,0,1,2,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92843157,-87.74197894,2521,31,190900,1284
+330,330,330,Campbell/Medill,Western/Medilll,2300N,2400W,12:04,0,0,0,0,2,0,1,0,0,0,0,1,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.924193,-87.689657,1431,1,221500,514
+331,331,331,Altgeld/Campbell,Logan/Campbell,2500N,2500W,13:12,0,0,0,0,5,0,0,0,1,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92783373,-87.75134947,2521,31,190800,1284
+332,332,332,Fullerton/Talman,Medill/Talman,2300N,2600W,13:27,0,0,0,0,1,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.93056164,-87.75145575,2521,31,190800,1284
+333,333,333,Medill/Washtenaw,Belden/Washtenaw,2300N,2700W,13:32,0,0,0,0,1,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.93047307,-87.75880693,2514,31,190701,981
+334,334,334,Milwaukee/St_Georges_Ct,California/St_Georges_Ct,2200N,2700W,13:38,0,0,0,1,0,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.92953425,-87.76123813,2514,31,190701,981
+335,335,335,Milwaukee/Belden,Sacremento/Belden,2300N,2900W,13:56,0,0,1,2,7,0,1,0,0,0,0,1,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.94706193,-87.74456956,1731,30,831700,906
+336,336,336,Fullerton/Kedzie,Albany/Kedzie,2400N,3100W,14:22,0,1,0,0,2,0,1,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.94700436,-87.74710705,1731,30,150800,906
+337,337,337,Belden/Kedzie,Lyndale/Kedzie,2200N,3100W,2:25,0,0,1,0,0,0,0,0,0,0,0,0,0,,7/29/2015,Anthony,TRUE,,,,,,41.94885101,-87.74716904,1634,30,831700,803
+338,338,338,Kilbourn/Parker,Kenton/Parker,2700N,4500W,15:17,0,1,2,5,4,0,0,0,0,0,0,2,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.94699107,-87.74964896,1634,30,150800,803
+339,339,339,Kenton/Wrightwood,Kilbourn/Wrightwood,2500N,4500W,3:20,0,0,1,2,3,0,0,0,0,0,0,0,0,,7/29/2015,Anthony,TRUE,,,,,,41.94245194,-87.74695648,1731,30,151002,906
+340,340,340,Cicero/Wrightwood,Lamon/Wrightwood,2600N,4800W,15:38,2,2,1,2,2,1,0,0,0,1,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.94241209,-87.74942754,1634,31,151002,803
+341,341,341,Wrightwood/Lavergne,Drummond_Pl/Lavergne,2600N,5000W,15:46,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.94237223,-87.75434751,1634,31,151001,803
+342,342,342,Parker/Lavergne,Diversey/Lavergne,2700N,5000W,15:52,0,0,0,0,1,0,0,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.94323135,-87.75926748,1634,31,151100,803
+343,343,343,Lockwood/Parker,Long/Parker,2700N,5300W,4:04,0,0,1,0,5,1,1,0,0,1,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.9413227,-87.76412989,1633,30,151100,1005
+344,344,344,Long/Shubert,Linder/Shubert,2700N,5400W,4:14,5,0,0,1,3,0,1,0,0,0,0,0,0,,7/29/2015,Anthony/Danica,TRUE,,,,,,41.93863022,-87.76156583,2514,30,190300,981
+345,345,345,Patterson/Kilpatrick,Patterson/Cicero,3600 N,4700E,9:49,0,0,0,3,2,0,0,0,1,0,0,0,0,Street was disconnected from Cicero,7/30/2015,Stacy/Forest,TRUE,,,,,,41.9349812,-87.76144627,2514,31,190300,981
+346,346,346,Patterson/Cicero,Patterson/Lamon,3650 N,4800 W,9:57,1,2,0,0,2,0,3,0,0,0,0,0,0,16 Potholes were filled,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93316112,-87.76137984,2514,31,190300,981
+347,347,347,Warwick/Cicero,Warwick/Lamon,3720 N,4800 W,10:06,0,0,0,0,1,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93314341,-87.76383761,2514,31,190300,981
+348,348,348,Patterson/Lamon,Patterson/Addison,3600 N,4900 W,10:17,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93229315,-87.75887778,2514,31,190300,981
+349,349,349,Roscoe/Cicero,Roscoe/Lamon,3350 N,4800 W,10:27,0,0,0,3,1,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93235072,-87.75397995,2521,31,190200,1284
+350,350,350,Roscoe/Lamon,Roscoe/Henderson,3360 N,4900 W,10:30,0,0,0,1,0,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93511405,-87.75162846,2521,31,190200,1284
+351,351,351,Roscoe/LeClaire,Roscoe/Laramie,3360 N,5100 W,10:39,0,3,0,0,2,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93328069,-87.75156646,2521,31,190200,1284
+352,352,352,Newport/Lockwood,Lockwood/Cornelia,3400 N,5300 W,10:47,0,0,0,0,1,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93519377,-87.74544639,2521,31,190100,1284
+353,353,353,Linder/Henderson,Henderson/Central,3330 N,5500 W,10:59,0,0,0,0,3,0,0,0,1,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93528233,-87.73936617,2523,31,200100,810
+354,354,354,Long/Belmont,Long/Lockwood,2900 N,5300 W,11:15,1,0,0,0,0,0,1,1,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.938905,-87.761977,1633,30,151100,1005
+355,355,355,Wellington/Long,Wellington/Lockwood,2960 N,5350 W,11:21,0,0,0,0,0,0,1,1,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93887378,-87.74320561,2521,31,190100,1284
+356,356,356,Long/George,George/Lockwood,2800 N,5370 W,11:28,0,0,0,0,1,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.93701385,-87.74550839,2521,31,190100,1284
+357,357,357,George/Linder,Linder/Diversey,2800 N,5400 W,11:36,0,1,0,0,5,1,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.9733313,-87.76265965,1623,45,110501,998
+358,358,358,Wolfram/Lockwood,Wolfram/Laramie,2820 N,5200 W,11:45,0,0,0,0,4,1,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.97428341,-87.76018859,1623,45,110501,998
+359,359,359,Wolfram/Leclaire,Leclaire/George,2900 N,5000 W,11:53,0,0,0,1,0,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.97154222,-87.76010888,1623,45,110502,998
+360,360,360,Lavergne/Wellington,Lavergne/Oakdale,2960 N,4900 W,12:00,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.97155108,-87.75763783,1623,45,110502,998
+361,361,361,Lavergne/George,Lavergne/Wolfram,2800 N,5000 W,12:03,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.97345087,-87.75280642,1623,45,120400,998
+362,362,362,Keating/Wellington,Wellington/Kilpatrick,3000 N,4700 W,12:18,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.97781286,-87.75496749,1621,39,120400,305
+363,363,363,Kilbourn/Wellington,Wellington/Kenneth,3000 N,4400 W,13:10,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.9788624,-87.75372753,1621,39,120400,305
+364,364,364,Kostner/Wellington,Wellington/Lowell,3000 N,4300 W,13:14,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.98103232,-87.75079592,1621,39,120400,305
+365,365,365,Belmont/Knox,Knox/Barry,3100 N,4600 W,13:29,0,0,0,0,1,0,0,0,1,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.98546074,-87.75247872,1621,39,120200,305
+366,366,366,Keating/Barry,Barry/Cicero,3000 N,4700 W,13:36,0,0,0,0,0,0,0,0,0,0,0,0,0,,7/30/2015,Stacy/Forest,TRUE,,,,,,41.937159,-87.745834,2521,31,190100,1284
+367,367,367,Long/Carmen,Long/Foster,5050 N,5410 W,11:01,0,1,1,0,1,0,3,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.98928247,-87.75446708,1621,39,120200,305
+368,368,368,Winona/Lockwood,Winnemac/Lockwood,5110 N,5300 W ,11:09,0,2,0,0,1,0,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.98562017,-87.74605751,1711,39,120300,614
+369,369,369,Argyle/Lockwood ,Argyle/ Laramie,4950 N ,5300 W ,11:14,0,1,0,0,1,0,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.98522161,-87.74076998,1711,39,120300,614
+370,370,370,Argyle/Laramie,Laramie/Strong,4960 N ,5200 W ,11:17,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.99025229,-87.74228893,1711,39,120300,614
+371,371,371,Lavergne/Carmen,Lavergne/Winoa,5100 N,5000 W,11:30,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.99368432,-87.73735567,1711,39,120300,614
+372,372,372,Berwyn/Forest Glen,Balmoral/Forest Glen,5280 N,5000 W ,11:41,0,0,0,1,0,0,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.99368432,-87.73616,1711,39,120300,614
+373,373,373,Lawler/Balmoral,Laporte/Balmoral ,5300 N,5050 W ,11:46,0,0,1,1,5,0,0,1,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.99534054,-87.73616885,1711,39,120300,614
+374,374,374,Gregory/Lamon,GregoryLaCrosse,5430 N ,4840 W,11:58,0,0,0,0,3,0,1,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.99370203,-87.73494661,1711,39,120300,614
+375,375,375,Lansing/Clifford,DeadEnd,5730 N ,4800 W,12:20,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.99370203,-87.73494661,1711,39,120300,614
+376,376,376,Lansing/Lamont,DeadEnd,5750 N,4800 W,12:27,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.987121,-87.75424,1621,39,120200,305
+377,377,377,Louise/Landers,DeadEnd,5910 N,4800 W,12:35,0,0,0,0,0,0,0,3,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.99368432,-87.73010635,1711,39,120300,614
+378,378,378,Kercheval/Kingsdale,Kercheval/Kerbs,5770 N,4350 W,13:49,0,0,0,0,1,0,0,3,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.99370203,-87.72762643,1711,39,130100,614
+379,379,379,Rogers/Kilbourn,Kilbourn/Thornsdale,5700 N,4350 W,13:59,2,1,1,1,3,0,1,7,0,0,0,0,0,help quiet chicago sign',8/3/2015,Radha/Denise,TRUE,,,,,,41.9954734,-87.72640862,1711,39,130100,614
+380,380,380,ForestGlen/Hiawatha,Kirkwood/Hiawatha,6000 N,4300 W,14:11,0,0,0,0,0,0,0,1,1,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.990504,-87.742471,1711,39,120300,614
+381,381,381,Lowell/Granville,Kildare/Granville ,6150 N,4230 W ,14:36,1,1,0,0,0,0,0,1,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.9955044,-87.72268875,1711,50,130100,614
+382,382,382,Kildare/Granville,Rosemont/Kildare ,6160 N,4300 W,14:39,1,1,0,1,2,0,0,2,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.72244369,-87.57900871,413,8,510300,1189
+383,383,383,Rosemont/Kildare,Tripp/Rosemont ,6160 N,4300 W,14:42,0,0,0,0,0,0,0,2,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+384,384,384,Tripp/Granville,Granville/Kildare,6150 N,4230 W,14:47,0,0,0,0,1,0,0,2,0,0,0,0,0,,8/3/2015,Radha/Denise,FALSE,,,,,,41.72064132,-87.57528884,431,7,510300,1489
+385,385,385,Tripp/Granville,Granville/Keeler,6150 N,4230 W,14:51,0,0,0,0,1,0,0,3,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.71707202,-87.57521799,431,7,510300,1489
+386,386,386,Kedvale/Greenville,DevonAve,6150 N,4120 W,14:54,0,0,0,3,10,0,1,4,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.71692145,-87.57216681,431,7,510300,1489
+387,387,387,Granville/Keystone,DeadEnd,6150 N,4030 W,15:09,0,0,0,1,4,0,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.71618191,-87.57391603,431,7,510300,1489
+388,388,388,Granville/Harding,Harding/Glenlake,6150 N,3930 W ,15:20,0,0,0,0,9,0,0,0,0,0,0,1,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.71525194,-87.57402674,431,7,510300,1489
+389,389,389,Rosemont/Springfield ,Rosemont/Avers ,6250 N ,3920 W ,15:30,1,0,0,0,0,0,0,1,1,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.71526079,-87.57185682,431,7,510300,1489
+390,390,390,Avers/Springfield,Avers/Granville,4850 N ,3800 W ,15:35,0,0,0,0,1,,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.70987141,-87.56910677,431,7,510300,1489
+391,391,391,Ridgeway/Rosemont,Granville/Rosemont ,6250 N,3730 W ,15:41,2,3,0,1,7,0,0,0,0,0,0,0,0,,8/3/2015,Radha/Denise,TRUE,,,,,,41.71527408,-87.57089585,431,7,510300,1489
+392,392,392,Constance/95th,Constance/96th,9500 S,1800 E,9:36,1,3,0,0,2,0,0,2,0,0,0,0,,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.71587192,-87.5693459,431,10,510300,1489
+393,393,393,46th/Euclid,46th/Jeffrey,9500 S,1900 E,9:41,0,0,0,0,2,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.7164919,-87.56677742,431,10,510300,1489
+394,394,394,Jeffrey/96th,Jeffrey/97th,9600 S,1900 E,9:42,0,0,0,2,6,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72134101,-87.56585631,431,10,510300,1489
+395,395,395,98th/Jeffrey,98th/Chappel,9700 S,2000 E,9:48,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72256326,-87.57045744,413,7,510300,1189
+396,396,396,Clyde/98th,Clyde/98th_Pl,9800 S,2100 E,9:53,0,0,0,0,10,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72710239,-87.56935919,413,7,480400,1189
+397,397,397,Chappel/98th_Pl,Chappel/98th,9900 S,2000 E,9:57,0,0,0,0,3,0,0,1,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72805007,-87.5669767,413,7,480400,1189
+398,398,398,99th/Van_Vlissingen,99th/Clyde,9900 S,2000 E,10:05,0,0,0,0,4,0,0,2,0,0,0,1,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72989229,-87.56458978,423,7,480500,2106
+399,399,399,Clyde/99th,Clyde/100th,9900 S,2100 E,10:10,1,1,0,1,7,0,0,0,0,0,0,1,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72974172,-87.57553683,413,8,480400,1189
+400,400,400,102nd/Van_Vlissingen,DeadEnd,10200 S,2200 E,10:25,0,2,0,0,7,0,0,0,0,0,0,1,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+401,401,401,Merril/99th,Merril/97th,9800 S,2100 E,10:40,0,0,1,2,10,0,4,3,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72954244,-87.58918965,413,8,480300,1189
+402,402,402,98th/Merrion,98th/Luella,9700 S,2200 E,10:52,0,0,0,0,3,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72784193,-87.58266659,413,8,480400,1189
+403,403,403,Crandon/98th,Crandon/Oglesby,9700 S,2100 E ,11:02,0,0,1,0,5,0,1,0,0,0,0,1,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.7287409,-87.58267987,413,8,480400,1189
+404,404,404,Oglesby/96th,Oglesby/95th,9500 S,2300 E,11:14,0,0,0,0,5,0,0,1,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72787293,-87.5803461,413,8,480400,1189
+405,405,405,95th/Paxton,DeadEnd,9500 S,2300 E,11:24,0,1,0,0,3,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72604399,-87.58030624,413,8,480400,1189
+406,406,406,92nd_Pl/Luella,92nd_Pl/Crandon,9200 S,2200 E,11:45,0,0,0,1,2,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72432134,-87.57416845,413,7,480400,1189
+407,407,407,Oglesby/92nd,Oglesby/91st,9100 S,2300 E,11:51,0,0,0,1,12,0,1,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.72614142,-87.57177711,413,7,480400,1189
+408,408,408,Philips/91st,Philips/90th,9000 S,2400 E,11:56,0,0,0,0,10,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.73914326,-87.55873984,423,7,460301,2106
+409,409,409,91st/Jeffrey,91st/Euclid,9000 S,1900 E,12:15,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.7391344,-87.55752646,423,7,460301,2106
+410,410,410,90th/Dante,90th_Pl/Dante,8900 S,1400 E,12:34,0,1,0,0,7,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+411,411,411,91st_Pl/Dante,92nd/Dante,9000 S,1400 E,12:40,1,1,0,1,7,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+412,412,412,92nd/East_End,92nd_Pl/East_End,9200 S,1700 E,14:10,0,0,0,0,3,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.80415244,-87.59672682,222,4,390600,1116
+413,413,413,91st_Pl/East_End,91st_Pl/Cregier,9100 S,1700 E,14:17,1,1,0,2,8,0,0,1,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.80785017,-87.59514587,222,4,390600,1116
+414,414,414,Cregier/92nd,Cregier/92nd_Pl,9200 S,1700 E,14:23,0,0,0,0,4,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.8078236,-87.59920673,222,4,390500,1116
+415,415,415,93rd/Cregier,93rd/Ridgeland,9300 S,1700 E,14:25,0,0,0,0,6,0,1,0,0,2,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.80957282,-87.60166893,222,4,390500,1116
+416,416,416,Chappel/94th,Chappel/93rd,9300 S,2000 E,14:36,0,0,0,0,8,0,0,0,0,1,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.81324398,-87.60170879,222,4,390200,1116
+417,417,417,Merril/93rd,Merril/94th,9300 S,2100 E,14:46,0,0,1,3,10,0,0,0,0,1,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.81507292,-87.60056625,222,4,390200,1116
+418,418,418,86th/Marquette,86th/Manistee,8500 S,2700 E,15:17,0,0,0,0,2,0,0,0,0,0,0,0,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.81462122,-87.59573928,222,4,390100,1116
+419,419,419,Manistee/86th,Manistee/87th,8600 S,2700 E,15:19,0,0,1,1,8,1,0,0,0,1,0,1,0,,8/4/2015,Alison/Gustavo,TRUE,,,,,,41.8180311,-87.5983299,214,4,836400,646
+420,420,420,55th/Kenwood,54th/Kenwood,5400S,1300E,9:46,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.8180311,-87.59963629,214,4,836400,646
+421,421,421,55th/Kimbark,54th/Kimbark,5400S,1200E,9:50,0,0,0,0,3,0,1,0,0,0,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.81841194,-87.61708868,213,3,835900,819
+422,422,422,Woodlawn/50th,Greenwood/50th,5000S,1100E,10:10,0,0,0,1,4,0,0,0,0,0,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.81493121,-87.61154873,221,4,836000,716
+423,423,423,Kimbark/48th,Kenwood/48th,4800S,1300E,10:22,0,0,0,1,2,0,0,0,0,0,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.81308013,-87.61269569,221,3,836000,716
+424,424,424,Greenwood/48th,Ellis/48th,4800S,1000E,10:30,0,0,0,0,3,0,0,0,0,0,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.81125119,-87.61382937,221,3,836000,716
+425,425,425,47th/Ellis,46th/Ellis,4600S,1000E,10:35,0,0,1,0,4,0,0,0,0,0,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.8113309,-87.60900682,221,4,836000,716
+426,426,426,45th/Ellis,44th/Ellis,4400S,1000E,10:40,0,0,0,1,1,0,0,0,0,3,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.80948425,-87.61019806,221,4,843600,716
+427,427,427,Berkeley/44th,Greenwood/44th,4400S,1000E,10:45,0,0,0,0,0,0,0,0,0,3,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.80585295,-87.60890939,223,4,843600,756
+428,428,428,44th_Pl/Oakenwald,46th/Oakenwald,4400S,1200E,10:58,4,1,0,1,15,0,0,0,3,0,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.80582195,-87.61135831,223,4,843600,756
+429,429,429,Oakenwald/42nd_Pl,Oakenwald/42nd_Pl,4200S,1000E,10:52,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.80573338,-87.61675655,224,3,381800,822
+430,430,430,42nd_Pl/Lake_Park,Greenwood/Lake_Park,4200S,1100E,10:48,3,0,0,0,9,0,0,0,1,4,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.80567138,-87.61949774,224,3,381800,822
+431,431,431,Martin_Luther_King_Dr/42nd,Calumet/42nd,4200S,3000E,11:40,1,0,0,0,0,0,0,0,0,2,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.80752246,-87.61952874,224,3,381400,822
+432,432,432,44th/St._Lawrence,44th_Pl/St._Lawrence,4400S,600E,11:56,0,0,0,0,3,0,0,0,1,4,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.80748261,-87.62116726,224,3,381400,822
+433,433,433,45th/Forrestville,46th/Forrestville,4500S,500E,12:03,0,0,0,0,11,0,1,0,2,1,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+434,434,434,46th/Vincennes,45th_Pl/Vincennes,4500S,500E,12:07,0,0,0,0,6,0,0,0,1,2,0,1,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.79846192,-87.61606572,233,4,400300,492
+435,435,435,Langley/46th,Evans/46th,4600S,700E,12:16,0,0,0,0,0,0,0,0,0,9,0,0,0,,8/5/2015,Forest/Danica,TRUE,,,,,,41.79840435,-87.61930732,231,3,836100,821
+436,436,436,47th/Champlain,48th/Champlain,4700S,600E,13:12,1,1,0,0,16,1,1,0,1,4,0,0,0,,8/5/2015,Alison/Danica,TRUE,,,,,,41.80083112,-87.60394957,233,5,836300,492
+437,437,437,Langley/49th,Evans/49th,4900S,700E,13:28,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/5/2015,Alison/Danica,TRUE,,,,,,41.79937417,-87.60282918,233,5,410500,492
+438,438,438,49th/St._Lawrence,50th/St._Lawrence,4900S,600E,13:33,0,0,0,1,6,0,0,0,2,12,0,0,0,,8/5/2015,Alison/Danica,TRUE,,,,,,41.809623,-87.611724,221,3,381200,716
+439,439,439,49th/Martin_Luther_King_Dr,48th/Martin_Luther_King_Dr,4800S,400E,13:44,0,0,2,0,4,0,0,0,0,3,0,1,0,,8/5/2015,Alison/Danica,TRUE,,,,,,41.99452129,-87.75161961,1621,39,120200,305
+440,440,440,49th/Prairie,48th/Prairie,4800S,300E,13:59,0,2,2,0,4,1,0,0,1,10,0,1,0,,8/5/2015,Alison/Danica,TRUE,,,,,,41.99302005,-87.75286842,1621,39,120200,305
+441,441,441,Prairie/48th,Indiana/48th,4800S,200E,13:51,0,0,0,0,1,0,0,0,0,12,0,0,0,,8/5/2015,Alison/Danica,TRUE,,,,,,42.00084064,-87.76502,1621,41,120200,305
+442,442,442,48th/Indiana,49th/Indiana,4800S,200E,13:55,0,0,0,0,5,0,1,0,0,19,0,2,0,,8/5/2015,Alison/Danica,TRUE,,,,,,41.807768,-87.621481,224,3,381400,822
+443,443,443,50th_Pl/Washington,51st/Washington_Park_Ct,5000S,400E,14:17,0,0,2,0,1,0,0,0,0,0,0,0,0,,8/5/2015,Alison/Danica,TRUE,,,,,,41.802815,-87.615097,223,3,381900,756
+444,444,444,Martin_Luther_King_Dr/53rd,Calumet/53rd,5300S,300E,14:27,0,2,3,0,4,2,0,0,0,7,0,0,0,,8/5/2015,Alison/Danica,TRUE,,,,,,42.00112406,-87.76772576,1621,41,120100,305
+445,445,445,53rd/Prairie,54th/Prairie,5300S,300E,14:31,0,0,0,0,4,0,0,0,1,34,4,3,0,,8/5/2015,Alison/Danica,TRUE,,,,,,42.00073436,-87.76942628,1621,41,120100,305
+446,446,446,Drexal/52nd,Ingleside/52nd,5200S,900E,14:57,0,0,1,0,0,0,0,0,1,0,1,1,0,,8/5/2015,Alison/Danica,TRUE,,,,,,42.00219131,-87.77247746,1621,41,120100,305
+447,447,447,53rd/Ingleside,54th/Ingleside,5300S,900E,15:01,0,0,0,0,7,0,0,0,1,0,0,0,0,,8/5/2015,Alison/Danica,TRUE,,,,,,42.00263415,-87.77352699,1621,41,120100,305
+448,448,448,Devon/Haiwatha,Haiwatha/Le Mai,6380 N,4800 W,10:15,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,FALSE,,,,,,42.00466236,-87.77328786,1621,41,120100,305
+449,449,449,Haiwatha/Leader,Leader/Leoti,6200 N,4900 W,10:25,0,0,0,0,1,0,0,2,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.00567204,-87.77545778,1621,41,120100,305
+450,450,450,Leader/Leoti,Leader/Peterson,6200 N,5000 W,10:28,0,0,0,0,6,0,1,1,1,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.00676143,-87.77312843,1621,41,120100,305
+451,451,451,Haiwatha/Algonquin,Haiwatha/Tahoma,6600 N,5200 W,10:59,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.0073637,-87.77452781,1621,41,120100,305
+452,452,452,Haiwatha/Tahoma,Tahoma/Kinzua,6500 N,5200 W,11:03,0,0,0,0,4,0,1,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.00525134,-87.77908908,1621,41,120100,305
+453,453,453,Leotia/Algonquin,Leoti/Central,6500 N,5300 W,11:12,0,0,0,0,7,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.0081121,-87.77544892,1621,41,120100,305
+454,454,454,Lehigh/Waukesha,Waukesha/Leoti,6580 N,5300 W,11:28,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.00962219,-87.781538,1621,41,120100,305
+455,455,455,Ponchartrain/Leoti,Chicora/Leoti,6600 N,5300 W,11:33,0,0,0,0,1,0,1,1,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.00092,-87.769686,1621,41,120100,305
+456,456,456,Loleta/Leoti,Loron/Leoti,6670 N,5400 W,11:39,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.00851066,-87.78204727,1621,41,120100,305
+457,457,457,Loron/Leoti,Lightfoot/Leoti,6700 N,5400 W,11:41,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.0060706,-87.78210927,1621,41,120100,305
+458,458,458,Haiwatha/Lightfoot,Loron/Haiwatha,6800 N,5500 W,11:46,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.01014032,-87.7843589,1621,41,120100,305
+459,459,459,Haiwatha/Wildwood,Wildwood/Leoti,6840 N,5500 W,11:51,0,0,0,0,3,0,0,1,0,0,0,0,1,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.01103043,-87.78673696,1621,41,120100,305
+460,460,460,Wildwood/Ionia,Wildwood/Lehigh,6900 N,5500 W,12:08,0,0,0,0,2,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,FALSE,,,,,,42.01272209,-87.77862853,1621,41,120100,305
+461,461,461,Ionia/Tonty,Tonty/Lehigh,6950 N,5600 W,12:17,0,0,0,0,6,0,0,1,1,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.00788182,-87.76592783,1621,41,120200,305
+462,462,462,Tonty/Leoti,Tonty/Mendota,6800 N,5600 W,12:40,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,42.00789068,-87.76677808,1621,41,120200,305
+463,463,463,Ionia/Medota,Medota/Mason,6900 N,5900 W,12:52,0,0,0,0,2,0,0,0,0,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,41.88331042,-87.66684639,1224,27,833000,792
+464,464,464,Makato/Tahoma,Tahoma/McAplin,7000 N,6100 W,14:39,0,0,0,0,1,0,0,1,1,0,0,0,0,,8/6/2015,Stacy/Anthony,TRUE,,,,,,41.88012195,-87.6692466,1224,27,838100,792
+465,465,465,McAplin/Leoti,Leoti/Monom,7000 N,6200 W,14:44,0,0,0,0,0,0,0,0,0,0,0,0,0,Second half of the block is a park,8/6/2015,Stacy/Anthony,TRUE,,,,,,41.87753133,-87.67897583,1225,27,838000,777
+466,466,466,McAlpin/Leoti,McAlpin/Medford,6700N,6200W,14:51,0,0,0,0,3,0,0,0,0,0,0,0,0,,8/6/2015,Anthony/Stacy,TRUE,,,,,,41.87504256,-87.6764782,1225,27,838100,777
+467,467,467,Moselle/Medford,Moselle/Caldwell,6800N,6200W,15:00,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/6/2015,Anthony/Stacy,TRUE,,,,,,41.93950262,-87.82385597,1631,38,170700,596
+468,468,468,Mobile/Estes,Mobile/Greenleaf,7100N,6300W,15:29,0,1,0,0,1,0,0,0,0,0,0,0,0,,8/6/2015,Anthony/Stacy,TRUE,,,,,,41.93946276,-87.82510921,1631,38,170700,596
+469,469,469,Nagle/Fitch,Nagle/Touhy,7200N,6400W,15:35,0,0,0,0,2,0,0,0,0,0,0,0,0,,8/6/2015,Anthony/Stacy,TRUE,,,,,,41.93776225,-87.82627831,1631,38,170700,596
+470,470,470,Meade/McVicker,Meade/Sherwin,7300N,6000W,15:50,0,0,0,0,4,0,0,0,0,0,0,0,0,,8/6/2015,Anthony/Stacy,TRUE,,,,,,41.93944062,-87.82636688,1631,38,170600,596
+471,471,471,Lunt/Chicora,Lunt/Dowagiac,5500W,7000N,16:58,0,0,0,0,2,0,1,0,0,0,0,0,0,,8/6/2015,Anthony/Stacy,TRUE,,,,,,41.93946276,-87.82510921,1631,38,170700,596
+472,472,472,Dowagiac/Lunt,Dowagiac/Sauganash,5500W,7000N,16:59,0,0,0,0,5,0,0,0,0,0,0,0,0,,8/6/2015,Anthony/Stacy,TRUE,,,,,,41.94120313,-87.82518892,1631,38,170700,596
+473,473,473,Washington/Ashland,Washington/Paulina,1600W,100N,2:19,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/11/2015,Anthony/Denise,TRUE,,,,,,41.94119427,-87.82643773,1631,38,170600,596
+474,474,474,Paulina/Monroe,Paulina/Adams,1700W,100S,2:30,0,0,0,1,1,0,0,0,0,0,0,0,0,,8/11/2015,Anthony/Denise,TRUE,,,,,,41.94110128,-87.83009561,1631,38,170600,596
+475,475,475,Jackson/Hoyne,Hoyne/Gladys,2100W,300S,14:00,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/11/2015,Anthony/Denise,TRUE,,,,,,41.94107028,-87.83133999,1631,38,170600,596
+476,476,476,Congress/Damen,Damen/Ogden,1910W,520S,14:10,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/11/2015,Anthony/Denise,TRUE,,,,,,41.93935205,-87.83002918,1631,38,170600,596
+477,477,477,School/Orange,School/Osage,3300 N,7900 W,9:39,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.93761168,-87.83478973,1631,38,170600,596
+478,478,478,Osage/School,Osage/Belmont,3200 N,7900 W,9:43,0,0,0,0,5,0,2,1,1,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.93930334,-87.8336782,1631,38,170600,596
+479,479,479,Pacific/Belmont,Pacific/School,3200 N,7900 W,9:49,0,0,0,0,2,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.93931219,-87.83249581,1631,38,170600,596
+480,480,480,School/Pacific,School/Osage,3300 N,7900 W,9:52,0,0,0,1,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94290364,-87.83499787,1631,38,170600,596
+481,481,481,School/Osage,Roscoe/Osage,3300 N,7900 W,9:54,0,0,0,0,8,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94487429,-87.83395719,1631,38,170500,596
+482,482,482,Roscoe/Osage,Roscoe/Orange,3400 N,7900 W,9:58,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94284164,-87.83017975,1631,38,170600,596
+483,483,483,Roscoe/Pacific,Cornelia/Pacfic,3400 N,8000 W,10:05,0,0,0,3,9,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94496286,-87.82902836,1631,38,170600,596
+484,484,484,Roscoe/Paris,Roscoe/Pioneer,3400 N,8100 W,10:14,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94679179,-87.82910807,1631,38,170500,596
+485,485,485,Pioneer/Roscoe,Pioneer/School,3300 N,8100 W,10:16,0,0,0,1,6,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94683165,-87.82786811,1631,38,170500,596
+486,486,486,Paris/School,Paris/Belmont,3200 N,8100 W,10:21,0,0,0,2,4,0,1,0,1,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94674308,-87.83032588,1631,38,170500,596
+487,487,487,Pontiac/Belmont,Pontiac/School,3200 N,8300 W,10:30,0,0,0,1,2,0,0,0,1,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94666337,-87.8328058,1631,38,170500,596
+488,488,488,School/Plainfield,School/Pittsburgh,3300 N,8200 W,10:34,0,0,0,1,1,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94662351,-87.83524586,1631,38,170500,596
+489,489,489,Pittsburgh/School,Pittsburgh/West_Forest_Preserve,3300 N,8200 W,10:36,0,0,0,2,1,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94847016,-87.83408561,1631,38,170500,596
+490,490,490,Pontiac/Cornelia,Pontiac/Addison,3400 N,8300 W,10:48,0,0,0,1,2,0,1,0,1,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94666337,-87.8328058,1631,38,170500,596
+491,491,491,Plainfield/Addison,Plainfield/Cornelia,3500 N,8300 W,10:53,0,0,0,1,3,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94850116,-87.83287665,1631,38,170500,596
+492,492,492,Paris/West_Forest_Preserve,Paris/Addison,3500 N,8100 W,11:06,0,0,0,0,1,0,1,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.9485543,-87.83164998,1631,38,170500,596
+493,493,493,Panama/Addison,Panama/Waveland,3600 N,8100 W,11:11,0,0,0,0,2,0,1,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94856316,-87.83039674,1631,38,170500,596
+494,494,494,Waveland/Panama,Waveland/Page,3700 N,8000 W,11:14,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94860302,-87.82915678,1631,38,170500,596
+495,495,495,Page/Waveland,Page/Addison,3600 N,8000 W,11:16,0,0,0,0,3,0,2,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94864287,-87.82795668,1631,38,170500,596
+496,496,496,Paris/Waveland,Paris/Addison,3700 N,8100 W,11:22,0,0,0,1,1,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.94864287,-87.82795668,1631,38,170500,596
+497,497,497,Waveland/Pittsburgh,Waveland/Plainfield,3700 N,8200 W,11:29,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.95048067,-87.82688943,1631,38,170500,596
+498,498,498,Waveland/Pontiac,Waveland/Cumberland,3700 N,8300 W,11:32,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.95043195,-87.82923649,1631,38,170500,596
+499,499,499,Plainfield/Grace,Plainfield/Waveland,3700 N,8300 W,11:39,0,0,0,1,7,0,1,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.9503611,-87.83171641,1631,38,170500,596
+500,500,500,Pittsburgh/Waveland,Pittsburgh/Grace,3700 N,8200 W,11:45,0,0,0,1,5,0,1,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.95027253,-87.83538757,1631,38,170500,596
+501,501,501,Grace/Pittsburgh,Grace/Pioneer,3800 N,8200 W,11:50,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.95391269,-87.83422732,1614,38,170500,523
+502,502,502,Grace/Pioneer,Grace/Paris,3800 N,8100 W,11:51,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.95570177,-87.83545842,1614,38,170500,523
+503,503,503,Grace/Paris,Grace/Panama,3800 N,8100 W,11:53,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.95390383,-87.83545842,1614,38,170500,523
+504,504,504,Grace/Panama,Grace/Page,3800 N,8000 W,11:55,0,0,0,2,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.948737,-87.829503,1631,38,170500,596
+505,505,505,Grace/Page,Grace/Pacific,3800 N,8000 W,11:57,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.96062174,-87.83946614,1614,38,760802,523
+506,506,506,Page/Grace,Page/Byron,3800 N,8000 W,11:58,0,0,0,4,5,0,1,0,1,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.96005048,-87.84362,1614,38,760802,523
+507,507,507,Pacific/Byron,Pacific/Irving_Park,3900 N,7900 W,12:03,0,0,0,1,3,0,1,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.96133824,-87.68970566,1911,47,40800,719
+508,508,508,Byron/Panama,Byron/Paris,3900 N,8100 W,12:12,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.96129044,-87.84170692,1614,38,760802,523
+509,509,509,Byron/Pioneer,Byron/Pittsburgh,3900 N,8200 W,12:16,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.96371278,-87.83966985,1614,38,760802,523
+510,510,510,Byron/Pontiac,Byron/Cumberland,3900 N,8300 W,12:20,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.96302195,-87.83750878,1614,38,760802,523
+511,511,511,Plainfield/Belle_Plaine,Plainfield/Berteau,4100 N,8300 W,13:45,0,0,0,1,7,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.96173328,-87.83982927,1614,38,760802,523
+512,512,512,Pontiac/Berteau,Pontiac/Belle_Plaine,4100 N,8300 W,13:51,1,1,0,3,12,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.96173328,-87.83982927,1614,38,760802,523
+513,513,513,Belle_Plaine/Pontiac,Belle_Plaine/Cumberland,4100 N,8300 W,13:55,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.71076152,-87.62719876,511,9,490700,2143
+514,514,514,Sunnyside/Cumberland,Sunnyside/Agatite,4400 N,8400 W,14:21,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.70533228,-87.62345675,512,9,490902,1477
+515,515,515,Agatite/Chester,Agatite/Potawatomie,4400 N,8500 W,14:25,0,0,0,0,6,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.70346349,-87.62340804,512,9,490902,1477
+516,516,516,Potawatomie/Brodman,Potawatomie/Chester,4400 N,8600 W,14:31,0,0,0,0,2,0,1,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.70077101,-87.62451957,512,34,491000,1477
+517,517,517,Sunnyside/Sunnyside,Sunnyside/Delphia,4500 N,8600 W,14:42,0,0,0,0,1,0,1,0,1,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.69715299,-87.62323976,513,34,491000,1524
+518,518,518,Sunnyside/Delphia,Delphia/Wilson,4500 N,8600 W,14:49,0,0,0,0,4,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.69623188,-87.6231999,513,9,490901,1524
+519,519,519,Wilson/Maria,Wilson/Chester,4600 N,8400 W,14:56,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.69619203,-87.62559568,513,34,491000,1524
+520,520,520,Patton/Windsor,Patton/Castle_Island,4500 N,8400 W,-,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.69616103,-87.62799588,513,34,491000,1524
+521,521,521,Castle_Island/Maria,Dead_End,4500 N,8500 W,15:18,0,0,0,0,1,1,1,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.69340212,-87.63032965,513,34,491000,1524
+522,522,522,Maria/Castle_Island,Maria/Windsor,4600 N,8400 W,15:19,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/10/2015,Gustavo/Radha,TRUE,,,,,,41.69423024,-87.63757897,2233,34,491100,921
+523,523,523,LaSalle/101,LaSalle/102,10100S,130W,8:32,1,1,0,0,9,0,1,0,2,3,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.69970376,-87.6377384,2233,34,491100,921
+524,524,524,104/State,104/Wabash,10400S,20E,8:42,0,0,0,0,0,0,0,0,0,5,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70149284,-87.64021831,2233,34,491100,921
+525,525,525,105/State,105/Lafayette,10500S,50W,8:48,0,0,1,0,0,0,0,0,0,0,0,4,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70336163,-87.63665786,2233,34,491100,921
+526,526,526,Lafayette/106,Lafayette/107,10600S,100W,8:53,1,0,0,0,3,0,0,0,0,1,0,1,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70337049,-87.63546662,2233,34,491100,921
+527,527,527,108_Pl/State,108_Pl/Perry,10800S,50W,9:00,4,4,2,0,5,0,0,0,0,2,0,1,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.69050151,-87.64473973,2233,34,750600,921
+528,528,528,109/State,109/Wabash,10900S,20E,9:07,0,0,0,0,4,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.69060336,-87.63626816,2233,34,491200,921
+529,529,529,Perry/109,Perry/109_Pl,10900S,50W,9:13,0,0,0,0,0,0,0,0,0,9,0,2,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.69775083,-87.64737907,2234,34,750100,1167
+530,530,530,109/Wentworth,109/Princeton,10900S,200W,9:19,1,0,0,2,2,0,2,6,0,6,0,4,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.6986808,-87.64620996,2234,34,750100,1167
+531,531,531,Princeton/110_Pl,Princeton/111,11000S,300W,9:27,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70143084,-87.64630739,2232,34,730700,1060
+532,532,532,Wallace/110,Wallace/111,11000S,600W,9:39,0,2,0,1,10,1,1,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70692208,-87.6440179,2232,34,730600,1060
+533,533,533,Wallace/107,Wallace/108,10700S,550W,9:48,5,6,1,1,6,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70326421,-87.64390718,2233,34,730700,921
+534,534,534,106/Union,106/Lowe,10600S,600W,9:54,0,0,0,1,1,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.705071,-87.64519586,2233,34,730700,921
+535,535,535,105/Parnell,105/Normal,10500S,500W,10:01,0,0,0,1,1,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70871116,-87.64528885,2232,34,730600,1060
+536,536,536,105/Normal,105/Eggleton,10500S,400W,10:02,0,0,0,0,2,0,0,0,0,5,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70866245,-87.65016897,2232,34,730600,1060
+537,537,537,Peoria/112,Peoria/113,11200S,900W,10:37,2,1,0,0,8,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.7059434,-87.65008926,2232,34,730700,1060
+538,538,538,112/Parnell,112/Normal,11200S,500W,10:53,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70502229,-87.65002726,2232,34,730700,1060
+539,539,539,108/Morgan,108/Sangamon,10800S,900W,10:59,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70596112,-87.6476492,2232,34,730700,1060
+540,540,540,Sangamon/Peoria,Sangamon/107,10700S,900W,11:02,0,0,0,0,1,0,1,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70319336,-87.65081995,2232,34,730700,1060
+541,541,541,106/Sangamon,106/Peoria,10600S,900W,11:03,0,0,0,0,1,0,0,0,0,3,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70135113,-87.65237875,2232,34,730700,1060
+542,542,542,Green/103,Green/104,10800S,800W,11:08,1,0,0,2,9,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.70876431,-87.64041759,2232,34,730500,1060
+543,543,543,Green/105,Green/106,10500S,800W,11:12,1,2,1,0,11,1,0,0,0,0,0,1,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68591367,-87.64702922,2234,34,750600,1167
+544,544,544,Peoria/104,Peoria/105,10400S,900W,11:15,4,1,0,0,17,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68765404,-87.64708679,2234,34,750600,1167
+545,545,545,Peoria/102,Peoria/103,10200S,900W,11:19,1,0,0,0,5,0,1,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68359318,-87.64695837,524,34,530300,1226
+546,546,546,102/Aberdeen,102/May,10200S,1100W,11:22,4,2,0,2,1,0,1,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68423087,-87.64698936,524,34,530300,1226
+547,547,547,103_Pl/Aberdeen,103_Pl/Racine,10300S,1100W,11:27,1,0,1,1,5,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.67956332,-87.64681666,524,34,530300,1226
+548,548,548,104/Aberdeen,104/Racine,10400S,1100W,11:32,1,0,1,1,8,0,0,0,1,1,0,1,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68141439,-87.64445631,524,34,530300,1226
+549,549,549,Morgan/103_Pl,Morgan/104,10300S,1000W,11:39,1,0,0,0,6,0,0,0,1,1,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68141439,-87.64445631,524,34,530300,1226
+550,550,550,May/105,May/106,10500S,1100W,11:42,1,1,0,2,9,0,0,0,0,2,0,1,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.67959431,-87.64438988,524,34,530300,1226
+551,551,551,106/Racine,106/May,10600S,1100W,11:45,0,0,0,0,3,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68075013,-87.64024931,524,34,530200,1226
+552,552,552,Union/102,Union/103,10200S ,700W,11:55,3,2,1,0,4,0,0,0,0,0,0,2,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68299091,-87.63722913,524,34,530200,1226
+553,553,553,Morgan/114_Pl,Morgan/113_Pl,11300S,1000W,12:09,2,2,0,1,8,0,0,0,0,8,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.6829422,-87.63853994,524,34,530200,1226
+554,554,554,Morgan/113_Pl,Morgan/DEADEND,11300S,1000W,12:11,0,0,0,0,1,0,0,0,0,1,0,1,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68518298,-87.6348865,2233,34,491200,921
+555,555,555,Morgan/Sangamon,Morgan/115_Pl,11500S,1000W,12:15,0,0,0,0,3,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68700306,-87.63494849,2233,34,491200,921
+556,556,556,115_Pl/Morgan,115_Pl/Peoria,11500S,900W,12:16,0,0,0,0,7,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.68875228,-87.63982861,2233,34,491200,921
+557,557,557,Morgan/118,Morgan/119,11800S,1000W,12:21,0,0,1,1,3,0,0,0,0,3,0,1,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.679686,-87.646574,524,34,530300,1226
+558,558,558,Peoria/117,Peoria/118,11700S,900W,12:25,1,0,0,1,11,0,1,0,0,4,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,42.01469273,-87.70437724,2411,50,20200,884
+559,559,559,117/Peoria,117/DEADEND,11700S,800W,12:27,0,0,0,0,0,0,0,1,0,2,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,41.681564,-87.644716,524,34,530300,1226
+560,560,560,118/Peoria,118/Halsted,11800S,800W,12:30,0,0,0,0,0,0,0,0,0,3,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,42.01463073,-87.70674644,2411,50,20200,884
+561,561,561,117_Pl/Union,117_Pl/Lowe,11700S,600W,12:34,2,2,0,0,5,0,0,0,1,0,0,1,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,42.01463073,-87.70674644,2411,50,20200,884
+562,562,562,Wallace/116_Pl,Wallace/116,11600S,600W,12:37,2,2,0,0,3,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,42.01833289,-87.70428867,2411,50,20200,884
+563,563,563,Lowe/116_Pl,Lowe/117,11600S,600W,12:39,1,1,0,1,7,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,42.0147503,-87.70203903,2411,50,20200,884
+564,564,564,Normal/115,Normal/114,11400S,400W,12:45,0,0,0,0,9,0,0,0,0,1,0,1,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,42.01852331,-87.69488714,2411,50,20200,884
+565,565,565,114/Normal,114/Eggleston,11400S,400W,12:47,1,1,0,0,2,0,0,0,0,1,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,42.01765092,-87.69253565,2411,50,20200,884
+566,566,566,Union/113,Union/114,11300S,600W,12:52,0,0,0,0,6,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Alison,TRUE,,,,,,42.0167608,-87.69256665,2411,50,20200,884
+567,567,567,Jarlath/DEADEND,Jarlath/Albany,7000N,3000W,2:54,0,0,0,0,4,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,42.013005,-87.70702,2411,50,20200,884
+568,568,568,Sacramento/Sherwin,Sacramento/Chase,7300N,2900W,2:58,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,42.01488,-87.704618,2411,50,20200,884
+569,569,569,Sacramento/Sherwin,Sacramento/Jarvis,7300N,2900W,3:01,0,0,0,1,0,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,42.01497172,-87.69256665,2411,50,20200,884
+570,570,570,Sherwin/Albany,Sherwin/Sacramento,7200N,3000W,3:02,0,0,0,1,2,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.88425252,-87.63244777,122,42,839100,1395
+571,571,571,Sherwin/Albany,Sherwin/DEADEND,7200N,3100W,3:04,0,0,0,0,5,0,0,1,1,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.67977145,-87.62751761,522,34,530200,1435
+572,572,572,Jerome/Sacramento,Jerome/Albany ,7500N,3000W,3:11,0,0,0,0,5,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.67799123,-87.62627765,522,34,530200,1435
+573,573,573,Francisco/Sherwin,Francisco/Chase,7300N,2900W,3:14,0,1,0,0,0,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.67802223,-87.62388631,522,34,530200,1435
+574,574,574,Jerome/Rockwell,Jerome/Washtenaw,7500N,2600W,3:20,0,1,0,0,1,0,1,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.67616229,-87.62622894,522,9,530501,1435
+575,575,575,Birchwood/Campbell,Birchwood/Maplewood,7400N,2500W,3:23,0,0,0,0,0,0,0,0,1,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.6742625,-87.62494913,523,9,530501,1423
+576,576,576,Campbell/Fargo,Campbell/Birchwood,7400N,2400W,3:24,0,0,0,0,3,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.67249113,-87.62850957,523,34,530501,1423
+577,577,577,Fargo/Artesian,Fargo/Campbell,7400N,2400W,3:26,0,0,0,0,0,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.66690247,-87.64035559,523,34,530503,1423
+578,578,578,Campbell/DEADEND,Campbell/Sherwin,7200N,2400W,3:29,0,0,0,0,1,0,1,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.66691132,-87.63641873,523,9,530503,1423
+579,579,579,Sherwin/Campbell,Sherwin/ALLEY,7300N,2400W,3:31,0,0,0,0,2,0,0,0,0,0,0,0,0,,8/12/2015,Abisola/Mitchell,TRUE,,,,,,41.66703089,-87.63069721,523,34,530503,1423
+580,580,580,LaSalle/116th,Wentworth/116th,11600W,200W,9:54,0,0,0,0,1,0,0,0,0,2,0,0,0,,8/13/2015,Stacy ,TRUE,,,,,,41.85339202,-87.73210799,1012,24,292500,920
+581,581,581,Wentworth/118th,Yale/118th,11800S,200W,10:02,0,0,1,1,2,0,1,0,0,0,0,1,0,,8/13/2015,Stacy ,TRUE,,,,,,41.85136381,-87.73229842,1013,22,843400,1003
+582,582,582,LaSalle/119th,LaSalle/120th,11910S,130W,10:09,1,0,0,0,0,0,0,0,0,0,0,2,0,,8/13/2015,Stacy ,TRUE,,,,,,41.678163,-87.626046,522,34,530200,1435
+583,583,583,Lafayette/119th,Lafayette/120th,11900S,35W,10:14,0,0,0,1,3,0,0,0,0,1,0,3,0,,8/13/2015,Stacy ,TRUE,,,,,,41.678215,-87.624134,522,34,530200,1435
+584,584,584,LaSalle/120th,Perry/120th,12000S,101W,10:16,0,0,0,0,0,,0,0,0,0,0,0,0,,8/13/2015,Stacy ,TRUE,,,,,,41.676152,-87.626252,523,9,530501,1423
+585,585,585,Perry/121st ,Perry/122nd,12100S,100W,10:17,0,0,0,0,7,0,0,0,0,1,0,1,0,,8/13/2015,Stacy ,TRUE,,,,,,41.674552,-87.62525,523,9,530501,1423
+586,586,586,Yale/122nd,Yale/123rd,12200S,230W,10:20,1,0,0,0,5,0,0,0,0,1,0,1,0,,8/13/2015,Stacy ,TRUE,,,,,,41.672659,-87.628816,523,34,530501,1423
+587,587,587,Emerald/125th,Union/125th ,12500S,700W,10:47,0,0,0,0,0,,0,0,0,0,0,0,0,,8/13/2015,Stacy ,TRUE,,,,,,41.667035,-87.640625,523,34,530503,1423
+588,588,588,Parnell/125th,Normal/125th,12530S,540W,11:02,0,0,0,0,1,0,0,0,0,0,0,0,0,,8/13/2015,Stacy ,TRUE,,,,,,41.665877,-87.636045,523,9,530503,1423
+589,589,589,Harvard/125th,Harvard/126th,12500S,330W,11:06,0,0,0,0,3,0,0,0,0,0,0,0,0,,8/13/2015,Stacy ,TRUE,,,,,,41.667175,-87.630461,523,34,530503,1423
+590,590,590,Kildare/21st ,Pulaski/21st ,2100S,4200W,11:49,0,0,0,0,0,0,0,0,0,1,0,1,0,,8/13/2015,Stacy ,FALSE,,,,,,41.853506,-87.732213,1012,24,292500,920
+591,591,591,Kolin/Cermak ,Kolin/Ogden,2200S,4300W,12:00,0,0,1,1,1,0,0,1,0,3,0,1,0,,8/13/2015,Stacy ,FALSE,,,,,,41.851172,-87.73246,1013,22,843400,1003
