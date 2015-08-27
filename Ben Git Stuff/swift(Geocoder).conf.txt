@@ -1,0 +1,30 @@
+﻿sites: localhost
+
+site.localhost {
+    filesystem {
+        type: "local"
+        URL: "localhost"
+    }
+    execution {
+        type: "local"
+        URL: "localhost"
+    }
+    app.geocoder{executable: ""}
+    workDirectory:"" 
+}
+site.remote-cloud {
+    execution {
+        type: "coaster"
+        URL: ""
+        jobManager: "ssh:local"
+    }
+    staging: "local"
+    workDirectory:"" 
+    app.ALL {executable: ""}
+}
+
+lazyErrors: false
+executionRetries: 0
+keepSiteDir: true
+providerStagingPinSwiftFiles: false
+alwaysTransferWrapperLog: true
