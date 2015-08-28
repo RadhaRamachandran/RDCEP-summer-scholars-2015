@@ -1,0 +1,26 @@
+﻿sites: localhost
+
+site.localhost {
+    filesystem {
+        type: "local"
+        URL: "localhost"
+    }
+    execution {
+        type: "local"
+        URL: "localhost"
+    }
+    app.cleaner{executable: "C:\\Anaconda3\\python.exe"}
+<<<<<<< HEAD
+    app.sqlizer{executable: "C:\\Anaconda2\\python.exe"}
+=======
+>>>>>>> 46f7e5fc2e731fd4bb502d53dee3f0418a5aef25
+    workDirectory:"C:\\Rdcep Github\\Ben Git Stuff" 
+    maxParallelTasks: 4
+    initialParallelTasks: 3
+}
+
+lazyErrors: false
+executionRetries: 0
+keepSiteDir: true
+providerStagingPinSwiftFiles: false
+alwaysTransferWrapperLog: true
